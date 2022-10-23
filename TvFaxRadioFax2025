@@ -26,7 +26,7 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 https://video.wixstatic.com/video/c634a0_723fc4b9081c41779a428ae14d3d8ac8/480p/mp4/file.mp4
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
-#EXTINF:0,SPACE HD≤
+#EXTINF:0,SPACE HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203858
 #EXTINF:0,SPACE FHD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204488
@@ -77,7 +77,7 @@ http://rtmp.one.by:1200
 #EXTINF:30,MASTER TV
 #EXTVLCOPT:network-caching=1000
 http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
-#EXTINF:30,TV DI¡RIO DO SERT√O - PB
+#EXTINF:30,TV DI√ÅRIO DO SERT√ÉO - PB
 #EXTVLCOPT:network-caching=1000
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
 #EXTINF:29,RETRO MUSIC HD
@@ -86,16 +86,16 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 #EXTINF:2574,O Sentido Da Vida Stephen Hawking
 #EXTVLCOPT:network-caching=1000
 http://archive.org/download/OSentidoDaVidaPorStephenHawking/O%20Sentido%20da%20Vida%20por%20Stephen%20Hawking.mp4
-#EXTINF:3105,AlÈm dos Limites Humanos [Dublado] Document·rio - https://archive.org/details/AlemDosLimitesHumanosDubladoDocumentario
+#EXTINF:3105,Al√©m dos Limites Humanos [Dublado] Document√°rio - https://archive.org/details/AlemDosLimitesHumanosDubladoDocumentario
 #EXTVLCOPT:network-caching=1000
 http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/01%20-%20Hipoxia%5bmvm%5d.mp4
-#EXTINF:3067,AlÈm dos Limites Humanos [Dublado] Document·rio - https://archive.org/details/AlemDosLimitesHumanosDubladoDocumentario
+#EXTINF:3067,Al√©m dos Limites Humanos [Dublado] Document√°rio - https://archive.org/details/AlemDosLimitesHumanosDubladoDocumentario
 #EXTVLCOPT:network-caching=1000
 http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/03%20-%20Tempo%5bmvm%5d.mp4
-#EXTINF:2796,TelescÛpio - https://archive.org/details/Telescopio-2016
+#EXTINF:2796,Telesc√≥pio - https://archive.org/details/Telescopio-2016
 #EXTVLCOPT:network-caching=1000
 http://archive.org/download/Telescopio-2016/TELESC%c3%93PIO%20-%20O%20UNIVERSO%20REVELADO%20480p%20HDTV-Master.mp4
-#EXTINF:4626,Terceiro Reich: Ascens„o
+#EXTINF:4626,Terceiro Reich: Ascens√£o
 #EXTVLCOPT:network-caching=1000
 http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-%20A%20Ascens%c3%a3o.mp4
 #EXTINF:5220,Terceiro Reich: Queda
@@ -119,7 +119,7 @@ http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 #EXTINF:25,RCG 2 TV MEXICO
 #EXTVLCOPT:network-caching=1000
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-#EXTINF:40,MULTIMEDIOS MONTERREY 2 - M…XICO
+#EXTINF:40,MULTIMEDIOS MONTERREY 2 - M√âXICO
 #EXTVLCOPT:network-caching=1000
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:29,Ovacion | SD
@@ -152,7 +152,7 @@ http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 #EXTINF:0,CBN - CAMPINA GRANDE
 #EXTVLCOPT:network-caching=1000
 http://audio.cabobranco.tv.br:8000/cbncg
-#EXTINF:0,ESTA«√O JC - POMBAL
+#EXTINF:0,ESTA√á√ÉO JC - POMBAL
 #EXTVLCOPT:network-caching=1000
 http://streaming15.hstbr.net:8224/live
 #EXTINF:0,ARAPUAN - CAJAZEIRAS
@@ -173,16 +173,16 @@ http://6d9a.webradio.upx.net.br:9974/stream
 #EXTINF:0,METROPOLETANA FM AO VIVO
 #EXTVLCOPT:network-caching=1000
 http://ice.paineldj3.com.br:8006/live
-#EXTINF:0,R¡DIO ATL¬NTIDA FM
+#EXTINF:0,R√ÅDIO ATL√ÇNTIDA FM
 #EXTVLCOPT:network-caching=1000
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
-#EXTINF:0,R¡DIO ELDORADO FM
+#EXTINF:0,R√ÅDIO ELDORADO FM
 #EXTVLCOPT:network-caching=1000
 http://noasrv.caster.fm:10136/stream
-#EXTINF:0,R¡DIO PRINCESA FM
+#EXTINF:0,R√ÅDIO PRINCESA FM
 #EXTVLCOPT:network-caching=1000
 http://noasrv.caster.fm:10124/stream
-#EXTINF:0,R¡DIO TRANSAMERICA FM
+#EXTINF:0,R√ÅDIO TRANSAMERICA FM
 #EXTVLCOPT:network-caching=1000
 http://transamerica.crossradio.com.br:9114/live.mp3
 #EXTINF:0,BAND NEWS SP*
@@ -323,7 +323,7 @@ http://rtmp.one.by:2300?Arlen
 #EXTINF:0,Kiss FM
 #EXTVLCOPT:network-caching=1000
 http://kissfm.live24.gr/kiss2111?Arlen
-#EXTINF:0,R·dio Transamerica FM
+#EXTINF:0,R√°dio Transamerica FM
 #EXTVLCOPT:network-caching=1000
 http://transamerica.crossradio.com.br:9114/live.mp3?Arlen
 #EXTINF:0,Anos 2000
@@ -341,7 +341,7 @@ http://6d9a.webradio.upx.net.br:9064/stream?Arlen
 #EXTINF:0,Metal
 #EXTVLCOPT:network-caching=1000
 http://6d9a.webradio.upx.net.br:9898/stream?Arlen
-#EXTINF:0,M˙sica Cl·ssica
+#EXTINF:0,M√∫sica Cl√°ssica
 #EXTVLCOPT:network-caching=1000
 http://6d9a.webradio.upx.net.br:9970/stream?Arlen
 #EXTINF:0,New Rock
@@ -461,10 +461,10 @@ http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/live.m3u8
 #EXTINF:0,TV ALMG
 #EXTVLCOPT:network-caching=1000
 http://streaming.almg.gov.br:80/live/tvalmg.m3u8
-#EXTINF:0,TV ASSEMBLEIA CEAR¡
+#EXTINF:0,TV ASSEMBLEIA CEAR√Å
 #EXTVLCOPT:network-caching=1000
 http://srv6.zoeweb.tv:1935/z404-live/stream/livestream.m3u8
-#EXTINF:0,TV C¬MARA
+#EXTINF:0,TV C√ÇMARA
 #EXTVLCOPT:network-caching=1000
 http://stream2.camara.gov.br:80/tv1/manifest.m3u8
 #EXTINF:0,TV CANAL 2
@@ -494,7 +494,7 @@ http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8
 #EXTINF:0,TV DIFUSORA SUL
 #EXTVLCOPT:network-caching=1000
 http://srv3.zoeweb.tv:1935/z438-live/stream/livestream.m3u8
-#EXTINF:0,TV …-PARAN¡
+#EXTINF:0,TV √â-PARAN√Å
 #EXTVLCOPT:network-caching=1000
 http://200.189.113.201:80/hls/tve.m3u8
 #EXTINF:0,TVE RS
@@ -503,7 +503,7 @@ http://streaming.procergs.com.br:1935/tve/stve/live.m3u8
 #EXTINF:0,TV EVANGELIZAR
 #EXTVLCOPT:network-caching=1000
 http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
-#EXTINF:0,TV F¡TIMA PARATIBE
+#EXTINF:0,TV F√ÅTIMA PARATIBE
 #EXTVLCOPT:network-caching=1000
 http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8
 #EXTINF:0,TV FUNTELPA
@@ -521,7 +521,7 @@ http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
 #EXTINF:0,TV TERCEIRO ANJO
 #EXTVLCOPT:network-caching=1000
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8
-#EXTINF:0,TV TRANSAM…RICA
+#EXTINF:0,TV TRANSAM√âRICA
 #EXTVLCOPT:network-caching=1000
 http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8
 #EXTINF:0,NEW ROCK
@@ -569,7 +569,7 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?PEDROJUNIOR
 #EXTINF:0,TLX
 #EXTVLCOPT:network-caching=1000
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:0,TV DIARIO DO SERT√#EXTVLCOPT:network-caching=1000
+#EXTINF:0,TV DIARIO DO SERT√É#EXTVLCOPT:network-caching=1000
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 #EXTINF:0,TV FAAP
 #EXTVLCOPT:network-caching=1000
@@ -582,7 +582,7 @@ https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/index.m3u8
 http://wz4.dnip.com.br:1935/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:0,TV Conquista - RecordTV
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
-#EXTINF:0,TV Gr„o Par· - TV Gazeta SP
+#EXTINF:0,TV Gr√£o Par√° - TV Gazeta SP
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 #EXTINF:0,TV Pantanal - RedeTV! EM
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
@@ -590,41 +590,41 @@ https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 https://cdn-cdn-tibagi.ciclano.io:1443/cdn-tibagi/cdn-tibagi/playlist.m3u8
 #EXTINF:0,TV Tropical
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
-#EXTINF:0,TV VitÛria PE
+#EXTINF:0,TV Vit√≥ria PE
 https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
 #EXTINF:0,Rede Globo
 https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8
 #EXTINF:0,TV Sorocaba SBT
 https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
-#EXTINF:0,Est·dio TNT Sports 1
+#EXTINF:0,Est√°dio TNT Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
-#EXTINF:0,Est·dio TNT Sports 2
+#EXTINF:0,Est√°dio TNT Sports 2
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-#EXTINF:0,Est·dio TNT Sports 3
+#EXTINF:0,Est√°dio TNT Sports 3
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
-#EXTINF:0,Est·dio TNT Sports 4
+#EXTINF:0,Est√°dio TNT Sports 4
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-#EXTINF:0,Est·dio TNT Sports 5
+#EXTINF:0,Est√°dio TNT Sports 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 #EXTINF:0,TVI Reality
 https://qs-l4n3sh4d0w.onrender.com:443/iptv-query?streaming-ip=https://tviplayer.iol.pt/direto/TVI_REALITY
 #EXTINF:0,TVI Reality
 https://video-auth6.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/playlist.m3u8
-#EXTINF:0,TVI FicÁ„o
+#EXTINF:0,TVI Fic√ß√£o
 https://bit.ly:443/3gejKxf?720p/playlist.m3u8
-#EXTINF:0,TVI FicÁ„o
+#EXTINF:0,TVI Fic√ß√£o
 https://video-auth6.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-480p/playlist.m3u8
 #EXTINF:0,Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8?IMDSFULL
-#EXTINF:0,Est·dio TNT Sports 4
+#EXTINF:0,Est√°dio TNT Sports 4
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:0,Est·dio TNT Sports 5
+#EXTINF:0,Est√°dio TNT Sports 5
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:0,Est·dio TNT Sports 6
+#EXTINF:0,Est√°dio TNT Sports 6
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:0,Est·dio TNT Sports 7
+#EXTINF:0,Est√°dio TNT Sports 7
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:0,Est·dio TNT Sports 8
+#EXTINF:0,Est√°dio TNT Sports 8
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:0,Todos os esportes
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8?PEDROJUNIORTUTORIAIS
@@ -652,41 +652,41 @@ https://www.googleapis.com/drive/v3/files/1Bdtw34YLBtY8K1HCpA0TbyQvDYU_E4D9?alt=
 https://www.googleapis.com/drive/v3/files/1BS01ugfdsIYjBPaJA-Gjmys3lEQ3uoXD?alt=media&key=AIzaSyCKDUDxfkYexBLCJJoBeQwWG8KkIw5ShFo
 #EXTINF:0,oyc-040
 https://www.googleapis.com/drive/v3/files/1YUVoRSyy7i32wouHYQ29Sxh-XBnu_SJb?alt=media&key=AIzaSyCdzS-vp5IVk3r74lPvjkDw1HohwPre5Fk
-#EXTINF:0,A&E HD≤
+#EXTINF:0,A&E HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203501
-#EXTINF:0,CINEMAX HD≤
+#EXTINF:0,CINEMAX HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203537
-#EXTINF:0,FX HD≤
+#EXTINF:0,FX HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203657
-#EXTINF:0,MEGAPIX HD≤
+#EXTINF:0,MEGAPIX HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203767
-#EXTINF:0,PAROUNT CHANNEL HD≤
+#EXTINF:0,PAROUNT CHANNEL HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203799
-#EXTINF:0,PRIME BOX BRASIL HD≤
+#EXTINF:0,PRIME BOX BRASIL HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203827
-#EXTINF:0,SONY HD≤
+#EXTINF:0,SONY HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203855
-#EXTINF:0,SONY SD≤
+#EXTINF:0,SONY SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203856
-#EXTINF:0,STUDIO UNIVERSAL HD≤
+#EXTINF:0,STUDIO UNIVERSAL HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203870
-#EXTINF:0,SYFY HD≤
+#EXTINF:0,SYFY HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203873
-#EXTINF:0,SYFY SD≤
+#EXTINF:0,SYFY SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203874
-#EXTINF:0,TBS HD≤
+#EXTINF:0,TBS HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203876
-#EXTINF:0,TCM HD≤
+#EXTINF:0,TCM HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203897
-#EXTINF:0,TCM SD≤
+#EXTINF:0,TCM SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203898
-#EXTINF:0,TNT HD≤
+#EXTINF:0,TNT HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203906
-#EXTINF:0,TNT SERIES HD≤
+#EXTINF:0,TNT SERIES HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203909
-#EXTINF:0,UNIVERSAL CHANNEL HD≤
+#EXTINF:0,UNIVERSAL CHANNEL HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203935
-#EXTINF:0,WARNER CHANNEL HD≤
+#EXTINF:0,WARNER CHANNEL HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203944
 #EXTINF:0,A&E FHD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204359
@@ -720,11 +720,11 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204479
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204480
 #EXTINF:0,TBS SD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204481
-#EXTINF:0,TNT SÈries FHD
+#EXTINF:0,TNT S√©ries FHD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204482
-#EXTINF:0,TNT SÈries HD
+#EXTINF:0,TNT S√©ries HD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204483
-#EXTINF:0,TNT SÈries SD
+#EXTINF:0,TNT S√©ries SD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204484
 #EXTINF:0,TNT FHD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204485
@@ -774,15 +774,15 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204593
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204594
 #EXTINF:0,AMC SD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204595
-#EXTINF:0,GLOBO EPTV CAMPINAS FHD H265≤
+#EXTINF:0,GLOBO EPTV CAMPINAS FHD H265¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203663
 #EXTINF:0,GLOBO SP SD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204355
-#EXTINF:0,BAND SP SD≤
+#EXTINF:0,BAND SP SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203520
-#EXTINF:0,REDETV! SD≤
+#EXTINF:0,REDETV! SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203848
-#EXTINF:0,SBT SD≤
+#EXTINF:0,SBT SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203851
 #EXTINF:0,CULTURA FHD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204307
@@ -832,39 +832,39 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204651
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204653
 #EXTINF:0,LOADING FHD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204656
-#EXTINF:0,SBT SP VTV CAMPINAS HD≥
+#EXTINF:0,SBT SP VTV CAMPINAS HD¬≥
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249419
 #EXTINF:0,BAND RJ HD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/257408
 #EXTINF:0,BAND RJ FHD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/257410
-#EXTINF:0,PREMIERE 2 HD≤
+#EXTINF:0,PREMIERE 2 HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203806
-#EXTINF:0,PREMIERE 2 SD≤
+#EXTINF:0,PREMIERE 2 SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203807
-#EXTINF:0,PREMIERE 3 HD≤
+#EXTINF:0,PREMIERE 3 HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203809
-#EXTINF:0,PREMIERE 3 SD≤
+#EXTINF:0,PREMIERE 3 SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203810
-#EXTINF:0,PREMIERE 4 HD≤
+#EXTINF:0,PREMIERE 4 HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203812
-#EXTINF:0,PREMIERE 4 SD≤
+#EXTINF:0,PREMIERE 4 SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203813
-#EXTINF:0,PREMIERE 5 HD≤
+#EXTINF:0,PREMIERE 5 HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203815
-#EXTINF:0,PREMIERE 5 SD≤
+#EXTINF:0,PREMIERE 5 SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203816
-#EXTINF:0,PREMIERE 6 HD≤
+#EXTINF:0,PREMIERE 6 HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203818
-#EXTINF:0,PREMIERE 6 SD≤
+#EXTINF:0,PREMIERE 6 SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203819
-#EXTINF:0,PREMIERE 7 HD≤
+#EXTINF:0,PREMIERE 7 HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203821
-#EXTINF:0,PREMIERE 7 SD≤
+#EXTINF:0,PREMIERE 7 SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203822
-#EXTINF:0,PREMIERE CLUBES HD≤
+#EXTINF:0,PREMIERE CLUBES HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203824
-#EXTINF:0,PREMIERE CLUBES SD≤
+#EXTINF:0,PREMIERE CLUBES SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203825
 #EXTINF:0,PREMIERE 3 FHD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204294
@@ -908,17 +908,17 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204392
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204393
 #EXTINF:0,PREMIERE 5 SD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204394
-#EXTINF:0,SPORTV 2 HD≤
+#EXTINF:0,SPORTV 2 HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203861
-#EXTINF:0,SPORTV 2 SD≤
+#EXTINF:0,SPORTV 2 SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203862
-#EXTINF:0,SPORTV 3 HD≤
+#EXTINF:0,SPORTV 3 HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203864
-#EXTINF:0,SPORTV 3 SD≤
+#EXTINF:0,SPORTV 3 SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203865
-#EXTINF:0,SPORTV HD≤
+#EXTINF:0,SPORTV HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203867
-#EXTINF:0,SPORTV SD≤
+#EXTINF:0,SPORTV SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203868
 #EXTINF:0,SPORTV 2 FHD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204287
@@ -938,23 +938,23 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204371
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204372
 #EXTINF:0,SPORTV 3 SD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204373
-#EXTINF:0,BAND SPORTS SD≤
+#EXTINF:0,BAND SPORTS SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203523
-#EXTINF:0,COMBATE HD≤
+#EXTINF:0,COMBATE HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203548
-#EXTINF:0,COMBATE SD≤
+#EXTINF:0,COMBATE SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203549
-#EXTINF:0,FISH TV HD≤
+#EXTINF:0,FISH TV HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203630
-#EXTINF:0,FISH TV SD≤
+#EXTINF:0,FISH TV SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203631
-#EXTINF:0,FOX SPORTS 2 SD≤
+#EXTINF:0,FOX SPORTS 2 SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203653
-#EXTINF:0,OFF HD≤
+#EXTINF:0,OFF HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203796
-#EXTINF:0,OFF SD≤
+#EXTINF:0,OFF SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203797
-#EXTINF:0,WOOHOO SD≤
+#EXTINF:0,WOOHOO SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203947
 #EXTINF:0,Fish TV FHD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204362
@@ -982,17 +982,17 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204611
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204612
 #EXTINF:0,Woohoo SD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204613
-#EXTINF:0,TC ACTION HD≤
+#EXTINF:0,TC ACTION HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203879
-#EXTINF:0,TC CULT HD≤
+#EXTINF:0,TC CULT HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203882
-#EXTINF:0,TC FUN HD≤
+#EXTINF:0,TC FUN HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203885
-#EXTINF:0,TC PIPOCA HD≤
+#EXTINF:0,TC PIPOCA HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203888
-#EXTINF:0,TC PREMIUM HD≤
+#EXTINF:0,TC PREMIUM HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203891
-#EXTINF:0,TC TOUCH HD≤
+#EXTINF:0,TC TOUCH HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203894
 #EXTINF:0,TC PREMIUM FHD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204509
@@ -1030,21 +1030,21 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204527
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204528
 #EXTINF:0,TC CULT SD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204529
-#EXTINF:0,HBO 2 HD≤
+#EXTINF:0,HBO 2 HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203728
-#EXTINF:0,HBO FAMILY HD≤
+#EXTINF:0,HBO FAMILY HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203731
-#EXTINF:0,HBO HD≤
+#EXTINF:0,HBO HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203734
-#EXTINF:0,HBO MUNDI HD≤
+#EXTINF:0,HBO MUNDI HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203736
-#EXTINF:0,HBO PLUS HD≤
+#EXTINF:0,HBO PLUS HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203739
-#EXTINF:0,HBO POP HD≤
+#EXTINF:0,HBO POP HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203742
-#EXTINF:0,HBO SIGNATURE HD≤
+#EXTINF:0,HBO SIGNATURE HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203746
-#EXTINF:0,HBO XTREME HD≤
+#EXTINF:0,HBO XTREME HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203749
 #EXTINF:0,HBO MUNDI FHD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204413
@@ -1094,23 +1094,23 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204473
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204474
 #EXTINF:0,HBO POP SD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204475
-#EXTINF:0,ESPN 3 HD≤
+#EXTINF:0,ESPN 3 HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203614
-#EXTINF:0,ESPN 3 SD≤
+#EXTINF:0,ESPN 3 SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203615
-#EXTINF:0,ESPN SD≤
+#EXTINF:0,ESPN SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203618
-#EXTINF:0,ESPN EXTRA HD≤
+#EXTINF:0,ESPN EXTRA HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203620
-#EXTINF:0,ESPN EXTRA SD≤
+#EXTINF:0,ESPN EXTRA SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203621
-#EXTINF:0,ESPN 2 HD≤
+#EXTINF:0,ESPN 2 HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203623
-#EXTINF:0,ESPN 2 SD≤
+#EXTINF:0,ESPN 2 SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203624
-#EXTINF:0,ESPN HD≤
+#EXTINF:0,ESPN HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203650
-#EXTINF:0,ESPN 4 SD≤
+#EXTINF:0,ESPN 4 SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203655
 #EXTINF:0,ESPN FHD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204300
@@ -1140,13 +1140,13 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204494
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204495
 #EXTINF:0,ESPN EXTRA SD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204496
-#EXTINF:0,STAR CHANNEL HD≤
+#EXTINF:0,STAR CHANNEL HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203636
-#EXTINF:0,STAR LIFE HD≤
+#EXTINF:0,STAR LIFE HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203638
-#EXTINF:0,STAR HITS HD≤
+#EXTINF:0,STAR HITS HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203644
-#EXTINF:0,STAR HITS 2 HD≤
+#EXTINF:0,STAR HITS 2 HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203647
 #EXTINF:0,Star Channel FHD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204425
@@ -1164,23 +1164,23 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204433
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204571
 #EXTINF:0,Star Hits 2 SD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204574
-#EXTINF:0,ANIMAL PLANET HD≤
+#EXTINF:0,ANIMAL PLANET HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203504
-#EXTINF:0,DISC. CASA E SA⁄DE HD≤
+#EXTINF:0,DISC. CASA E SA√öDE HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203571
-#EXTINF:0,DISCOVERY ID HD≤
+#EXTINF:0,DISCOVERY ID HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203574
-#EXTINF:0,H2 HD≤
+#EXTINF:0,H2 HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203725
-#EXTINF:0,HGTV HD≤
+#EXTINF:0,HGTV HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203752
-#EXTINF:0,NATGEO HD≤
+#EXTINF:0,NATGEO HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203779
-#EXTINF:0,NATGEO SD≤
+#EXTINF:0,NATGEO SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203783
-#EXTINF:0,HISTORY HD≤
+#EXTINF:0,HISTORY HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203900
-#EXTINF:0,TLC HD≤
+#EXTINF:0,TLC HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203903
 #EXTINF:0,TLC HD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204309
@@ -1194,11 +1194,11 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204311
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204312
 #EXTINF:0,DISCOVERY CHANNEL SD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204313
-#EXTINF:0,DISC. CASA E SA⁄DE FHD
+#EXTINF:0,DISC. CASA E SA√öDE FHD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204326
-#EXTINF:0,DISC. CASA E SA⁄DE HD
+#EXTINF:0,DISC. CASA E SA√öDE HD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204327
-#EXTINF:0,DISC. LAR E SA⁄DE SD
+#EXTINF:0,DISC. LAR E SA√öDE SD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204328
 #EXTINF:0,Discovery Turbo FHD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204329
@@ -1218,11 +1218,11 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204419
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204420
 #EXTINF:0,National Geographic SD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204421
-#EXTINF:0,HistÛrico FHD
+#EXTINF:0,Hist√≥rico FHD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204551
-#EXTINF:0,HistÛrico HD
+#EXTINF:0,Hist√≥rico HD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204552
-#EXTINF:0,HistÛrico SD
+#EXTINF:0,Hist√≥rico SD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204553
 #EXTINF:0,ANIMAL PLANET FHD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204566
@@ -1266,29 +1266,29 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204626
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204627
 #EXTINF:0,DISCOVERY ID SD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204628
-#EXTINF:0,BABY TV SD≤
+#EXTINF:0,BABY TV SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203514
-#EXTINF:0,CARTOON NETWORK HD≤
+#EXTINF:0,CARTOON NETWORK HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203534
-#EXTINF:0,DISCOVERY KIDS HD≤
+#EXTINF:0,DISCOVERY KIDS HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203577
-#EXTINF:0,GLOOBINHO HD≤
+#EXTINF:0,GLOOBINHO HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203719
-#EXTINF:0,GLOOBINHO SD≤
+#EXTINF:0,GLOOBINHO SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203720
-#EXTINF:0,NATGEO KIDS HD≤
+#EXTINF:0,NATGEO KIDS HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203781
-#EXTINF:0,NICK HD≤
+#EXTINF:0,NICK HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203788
-#EXTINF:0,NICK JR HD≤
+#EXTINF:0,NICK JR HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203790
-#EXTINF:0,NICK SD≤
+#EXTINF:0,NICK SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203792
-#EXTINF:0,TOONCAST HD≤
+#EXTINF:0,TOONCAST HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203912
-#EXTINF:0,TOONCAST SD≤
+#EXTINF:0,TOONCAST SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203913
-#EXTINF:0,TV RA TIM BUM HD≤
+#EXTINF:0,TV RA TIM BUM HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203926
 #EXTINF:0,DISCOVERY KIDS FHD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204314
@@ -1352,25 +1352,25 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204579
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204580
 #EXTINF:0,RETRO CARTOON SD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/251991
-#EXTINF:0,CNN BRASIL HD≤
+#EXTINF:0,CNN BRASIL HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203540
-#EXTINF:0,CNN ESPANHOL SD≤
+#EXTINF:0,CNN ESPANHOL SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203543
-#EXTINF:0,CNN INTERNACIONAL HD≤
+#EXTINF:0,CNN INTERNACIONAL HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203545
-#EXTINF:0,CNN INTERNACIONAL SD≤
+#EXTINF:0,CNN INTERNACIONAL SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203546
-#EXTINF:0,FOX NEWS HD≤
+#EXTINF:0,FOX NEWS HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203641
-#EXTINF:0,FOX NEWS SD≤
+#EXTINF:0,FOX NEWS SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203642
-#EXTINF:0,GLOBONEWS FHD H265≤
+#EXTINF:0,GLOBONEWS FHD H265¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203674
-#EXTINF:0,GLOBO NEWS HD≤
+#EXTINF:0,GLOBO NEWS HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203675
-#EXTINF:0,RECORD NEWS HD≤
+#EXTINF:0,RECORD NEWS HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203836
-#EXTINF:0,RECORD NEWS SD≤
+#EXTINF:0,RECORD NEWS SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203837
 #EXTINF:0,CNN BRASIL FHD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204347
@@ -1396,7 +1396,7 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204662
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204663
 #EXTINF:0,JOVEM PAM NEWS SD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204664
-#EXTINF:0,COPA CATARINENSE 2 SD≤
+#EXTINF:0,COPA CATARINENSE 2 SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203554
 #EXTINF:0,DAZN & STAR & HBOXMAX 2
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203565
@@ -1408,25 +1408,25 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203969
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203971
 #EXTINF:0,CONMEBOL 1
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203972
-#EXTINF:0,FOOD NETWORK HD≤
+#EXTINF:0,FOOD NETWORK HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203633
-#EXTINF:0,GNT HD≤
+#EXTINF:0,GNT HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203722
-#EXTINF:0,LIFETIME HD≤
+#EXTINF:0,LIFETIME HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203761
-#EXTINF:0,MAIS GLOBOSAT HD≤
+#EXTINF:0,MAIS GLOBOSAT HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203764
-#EXTINF:0,SHOPTIME SD≤
+#EXTINF:0,SHOPTIME SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203853
-#EXTINF:0,TRU TV HD≤
+#EXTINF:0,TRU TV HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203915
-#EXTINF:0,TRU TV SD≤
+#EXTINF:0,TRU TV SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203916
-#EXTINF:0,VIVA HD≤
+#EXTINF:0,VIVA HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203941
-#EXTINF:0,CHEF TV HD≤
+#EXTINF:0,CHEF TV HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203983
-#EXTINF:0,CHEF TV SD≤
+#EXTINF:0,CHEF TV SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203984
 #EXTINF:0,E! FHD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204297
@@ -1464,13 +1464,13 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/253080
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/253079
 #EXTINF:0,SABOR E ARTE FHD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/253081
-#EXTINF:0,REDE GENISIS SD≤
+#EXTINF:0,REDE GENISIS SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203843
-#EXTINF:0,REDE SUPER SD≤
+#EXTINF:0,REDE SUPER SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203845
 #EXTINF:0,TV EVANGELIZAR
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204015
-#EXTINF:0,CANC√O NOVA SD
+#EXTINF:0,CANC√ÉO NOVA SD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/252217
 #EXTINF:0,DOIS HOMENS E MEIO CANAL 2 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204156
@@ -1492,11 +1492,11 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204163
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204165
 #EXTINF:0,JIRAYA 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204166
-#EXTINF:0,AS VIS’ES DA RAVEN 24HS
+#EXTINF:0,AS VIS√ïES DA RAVEN 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204209
-#EXTINF:0,[24H] A GRANDE FAMILIA - O √LBUM
+#EXTINF:0,[24H] A GRANDE FAMILIA - O √ÉLBUM
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204211
-#EXTINF:0,[24H] PEGADINHAS JO√O KLEBER E SILVIO SANTOS
+#EXTINF:0,[24H] PEGADINHAS JO√ÉO KLEBER E SILVIO SANTOS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204212
 #EXTINF:0,UM MALUCO NO PEDACO CANAL 1 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204214
@@ -1518,7 +1518,7 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249506
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249507
 #EXTINF:0,DOIS HOMENS E MEIO 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249513
-#EXTINF:0,H…RCULES 24HS
+#EXTINF:0,H√âRCULES 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249523
 #EXTINF:0,JASPION 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249530
@@ -1556,7 +1556,7 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249591
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249594
 #EXTINF:0,JEZABEL 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249601
-#EXTINF:0,G NESIS 24 HRS
+#EXTINF:0,G√äNESIS 24 HRS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249602
 #EXTINF:0,X-MEN CLASSIC 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204175
@@ -1572,7 +1572,7 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204185
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204186
 #EXTINF:0,[24H] HE-MAN
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204188
-#EXTINF:0,204 - 203,200_.jpg" ,[24H] O PEQUENO PRÕNCIPE
+#EXTINF:0,204 - 203,200_.jpg" ,[24H] O PEQUENO PR√çNCIPE
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204191
 #EXTINF:0,[24H] POPEYE
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204193
@@ -1586,9 +1586,9 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204198
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204199
 #EXTINF:0,[24H] TICO E TECO: E OS DEFENSORES DA LEI
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204200
-#EXTINF:0,TIM√O E PUMBA 24HS
+#EXTINF:0,TIM√ÉO E PUMBA 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204201
-#EXTINF:0,TR S ESPI√S DEMAIS CANAL 2 24HS
+#EXTINF:0,TR√äS ESPI√ÉS DEMAIS CANAL 2 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204202
 #EXTINF:0,[24H] MASHA EO URSO
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204203
@@ -1608,7 +1608,7 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204210
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204217
 #EXTINF:0,[24H] BEYBLADE
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204218
-#EXTINF:0,O C√O COVARDE CANAL 2 24HS
+#EXTINF:0,O C√ÉO COVARDE CANAL 2 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204219
 #EXTINF:0,[24H] CHAVES EM DESENHO ANIMADO
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204221
@@ -1620,11 +1620,11 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204223
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204224
 #EXTINF:0, [24H] OS PADRINHOS MAGICOS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204225
-#EXTINF:0,[24H] PINKY EO C…REBRO
+#EXTINF:0,[24H] PINKY EO C√âREBRO
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204228
 #EXTINF:0,[24H] SPEED RACER
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204229
-#EXTINF:0,[24H] Z… COLMEIA
+#EXTINF:0,[24H] Z√â COLMEIA
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204231
 #EXTINF:0,[24H] AVENTURAS DE TINTIM
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204240
@@ -1644,13 +1644,13 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249501
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249502
 #EXTINF:0,CORAGEM O CAO COVARDE CANAL 1 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249504
-#EXTINF:0,CAVERNA DO DRAG√O 24HS
+#EXTINF:0,CAVERNA DO DRAG√ÉO 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249505
 #EXTINF:0,CHAVES DESENHO 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249508
 #EXTINF:0,DENIS O PIMENTINHA 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249509
-#EXTINF:0,DESENHOS BÕBLICOS 24HS
+#EXTINF:0,DESENHOS B√çBLICOS 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249510
 #EXTINF:0,DESENHOS DISNEY 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/2%2049511
@@ -1664,11 +1664,11 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249515
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249516
 #EXTINF:0,DRAGON BALL Z 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249517
-#EXTINF:0,FORMIGA AT”MICA 24HS
+#EXTINF:0,FORMIGA AT√ìMICA 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249519
 #EXTINF:0,GALINHA PINTADINHA 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249520
-#EXTINF:0,GUARDI’ES DA GALAXIA 24HS
+#EXTINF:0,GUARDI√ïES DA GALAXIA 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249521
 #EXTINF:0,HE-MAN 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249522
@@ -1680,7 +1680,7 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249525
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249526
 #EXTINF:0,HOMEMS DE PRETO 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249527
-#EXTINF:0,INCRÕVEL HULK 24HS
+#EXTINF:0,INCR√çVEL HULK 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249528
 #EXTINF:0,JACK-CHAN 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249529
@@ -1710,7 +1710,7 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249545
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249546
 #EXTINF:0,OS VINGADORES 24hs
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249547
-#EXTINF:0,PAPA-L…GUAS 24HS
+#EXTINF:0,PAPA-L√âGUAS 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249548
 #EXTINF:0,PEPPA PIG 24hs
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249549
@@ -1734,7 +1734,7 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249564
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249565
 #EXTINF:0,TOM & JERRY 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249567
-#EXTINF:0,TR S ESPI√S DEMAIS CANAL 1 24HS
+#EXTINF:0,TR√äS ESPI√ÉS DEMAIS CANAL 1 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249568
 #EXTINF:0,UMA FAMILIA DA PESADA 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249570
@@ -1796,7 +1796,7 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/250111
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/250112
 #EXTINF:0,SPORT TV 06
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/250113
-#EXTINF:0,PT: MOTOVIS√O
+#EXTINF:0,PT: MOTOVIS√ÉO
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/252026
 #EXTINF:0,EUROSPORT 2
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/263326
@@ -1812,7 +1812,7 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249826
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249827
 #EXTINF:0,CINE SKY PLAY 5
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249828
-#EXTINF:0,PinÛquio (2022)
+#EXTINF:0,Pin√≥quio (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/202460.mp4
 #EXTINF:0,Emboscada (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/223511.mp4
@@ -1820,37 +1820,37 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/223511.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/223838.mp4
 #EXTINF:0,O Segundo Homem (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/224332.mp4
-#EXTINF:0,J˙piter (2022)
+#EXTINF:0,J√∫piter (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/228569.mp4
 #EXTINF:0,A Era do Gelo: As Aventuras de Buck (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/232838.mp4
 #EXTINF:0,A Vida Depois (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/232839.mp4
-#EXTINF:0,Time do CoraÁ„o (2022)
+#EXTINF:0,Time do Cora√ß√£o (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/232841.mp4
 #EXTINF:0,O Golpista do Tinder (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/233130.mp4
-#EXTINF:0,AtravÈs da Minha Janela (2022)
+#EXTINF:0,Atrav√©s da Minha Janela (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/235746.mp4
-#EXTINF:0,Pudor e L·grimas 2 (2022)
+#EXTINF:0,Pudor e L√°grimas 2 (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/235752.mp4
-#EXTINF:0,Mulher-Gato: A CaÁada (2022)
+#EXTINF:0,Mulher-Gato: A Ca√ßada (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/235776.mp4
-#EXTINF:0,Filhos do PrivilÈgio (2022)
+#EXTINF:0,Filhos do Privil√©gio (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/235787.mp4
-#EXTINF:0,Kimi: AlguÈm Est· Escutando (2022)
+#EXTINF:0,Kimi: Algu√©m Est√° Escutando (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/235788.mp4
 #EXTINF:0,Bigbug (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/235789.mp4
-#EXTINF:0,Crush ‡ Altura 2 (2022)
+#EXTINF:0,Crush √† Altura 2 (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/235790.mp4
 #EXTINF:0,O Amor Move Ondas (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/235792.mp4
-#EXTINF:0,O CÈu Est· em Todo Lugar (2022)
+#EXTINF:0,O C√©u Est√° em Todo Lugar (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/235793.mp4
 #EXTINF:0,Volta Pra Mim (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/235794.mp4
-#EXTINF:0,O RÈu de Si Mesmo (2022)
+#EXTINF:0,O R√©u de Si Mesmo (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/238927.mp4
 #EXTINF:0,TQM (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/238929.mp4
@@ -1858,37 +1858,37 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/238929.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/238947.mp4
 #EXTINF:0,Amor Artificial (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/238948.mp4
-#EXTINF:0,Golpes de VinganÁa (2022)
+#EXTINF:0,Golpes de Vingan√ßa (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/238969.mp4
-#EXTINF:0,O Massacre da Serra ElÈtrica O Retorno de Leatherface (2022)
+#EXTINF:0,O Massacre da Serra El√©trica O Retorno de Leatherface (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/246132.mp4
-#EXTINF:0,PerseguiÁ„o (2022)
+#EXTINF:0,Persegui√ß√£o (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/246134.mp4
 #EXTINF:0,Desperate Riders (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/246180.mp4
 #EXTINF:0,Madea: O Retorno (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/246183.mp4
-#EXTINF:0,Um Dia DifÌcil (2022)
+#EXTINF:0,Um Dia Dif√≠cil (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/246185.mp4
-#EXTINF:0,Eduardo e MÙnica (2022)
+#EXTINF:0,Eduardo e M√¥nica (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/246205.mp4
-#EXTINF:0,Sem FÙlego (2022)
+#EXTINF:0,Sem F√¥lego (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/246208.mp4
 #EXTINF:0,Contra o Gelo (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/246224.mp4
-#EXTINF:0,LaÁos de Afeto (2022)
+#EXTINF:0,La√ßos de Afeto (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/246225.mp4
 #EXTINF:0,Naquele Fim de Semana (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/246226.mp4
 #EXTINF:0,Os Piratas: Em Busca do Tesouro Perdido ( 2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/246227.mp4
-#EXTINF:0,Whindersson Nunes: … de Mim Mesmo (2022) )
+#EXTINF:0,Whindersson Nunes: √â de Mim Mesmo (2022) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/246231.mp4
-#EXTINF:0,P‚nico (2022)
+#EXTINF:0,P√¢nico (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/246289.mp4
 #EXTINF:0,O Projeto Adam (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/246304.mp4
-#EXTINF:0,Red: Crescer È Uma Fera (2022)
+#EXTINF:0,Red: Crescer √© Uma Fera (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/246305.mp4
 #EXTINF:0,O Livro Do Amor (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/246503.mp4
@@ -1896,11 +1896,11 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/246503.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/246684.mp4
 #EXTINF:0,As Agentes 355 (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/247068.mp4
-#EXTINF:0,AtÈ a PrÛxima Vez (2022)
+#EXTINF:0,At√© a Pr√≥xima Vez (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/247069.mp4
 #EXTINF:0,Caranguejo Negro (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/247070.mp4
-#EXTINF:0,Doze È Demais (2022)
+#EXTINF:0,Doze √© Demais (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/247071.mp4
 #EXTINF:0,Fantasmas do Passado (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/247072.mp4
@@ -1914,17 +1914,17 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/247075.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/247082.mp4
 #EXTINF:0,O Jogo do Bunker (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/247083.mp4
-#EXTINF:0,Como PÈtalas que Caem (2022)
+#EXTINF:0,Como P√©talas que Caem (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/247800.mp4
 #EXTINF:0,SOS Mamis: La filme (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/247801.mp4
 #EXTINF:0,Transversais (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/247803.mp4
-#EXTINF:0,Farofa da GKay: O Document·rio (2022)
+#EXTINF:0,Farofa da GKay: O Document√°rio (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/247805.mp4
 #EXTINF:0,Granizo (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/248270.mp4
-#EXTINF:0,N„o Confie em NinguÈm: A CaÁa ao Rei da Criptomoeda (2022)
+#EXTINF:0,N√£o Confie em Ningu√©m: A Ca√ßa ao Rei da Criptomoeda (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/248271.mp4
 #EXTINF:0,Morte no Nilo (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/248272.mp4
@@ -1942,21 +1942,21 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/248793.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/248794.mp4
 #EXTINF:0,Eternamente Demais pra Mim (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/248795.mp4
-#EXTINF:0,Moonfall: AmeaÁa Lunar (2022)
+#EXTINF:0,Moonfall: Amea√ßa Lunar (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/248796.mp4
 #EXTINF:0,Morbius (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/248797.mp4
 #EXTINF:0,The Prototype LEG (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/248799.mp4
-#EXTINF:0,Animais Fant·sticos Uma HistÛria Natural (2022)
+#EXTINF:0,Animais Fant√°sticos Uma Hist√≥ria Natural (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/248800.mp4
-#EXTINF:0,De Volta ao EspaÁo (2022)
+#EXTINF:0,De Volta ao Espa√ßo (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249430.mp4
-#EXTINF:0,Tony Hawk: AtÈ as Rodinhas CaÌrem (2022) )
+#EXTINF:0,Tony Hawk: At√© as Rodinhas Ca√≠rem (2022) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249456.mp4
-#EXTINF:0,Um Jantar Entre Espiıes (2022)
+#EXTINF:0,Um Jantar Entre Espi√µes (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249457.mp4
-#EXTINF:0,Yaksha: OperaÁ„o Implac·vel (2022)
+#EXTINF:0,Yaksha: Opera√ß√£o Implac√°vel (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249459.mp4
 #EXTINF:0,Sonic 2: O Filme (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249460.mp4
@@ -1988,7 +1988,7 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249764.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249766.mp4
 #EXTINF:0,The Devil You Know (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249768.mp4
-#EXTINF:0,O MistÈrio de Marilyn Monroe: GravaÁıes InÈditas ( 2022)
+#EXTINF:0,O Mist√©rio de Marilyn Monroe: Grava√ß√µes In√©ditas ( 2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249769.mp4
 #EXTINF:0,Silverton: Cerco Fechado (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249770.mp4
@@ -2000,9 +2000,9 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249783.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249785.mp4
 #EXTINF:0,Rumspringa: Um Amish em Berlim (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249788.mp4
-#EXTINF:0,Lua de Mel com a Minha M„e (2022 )
+#EXTINF:0,Lua de Mel com a Minha M√£e (2022 )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249789.mp4
-#EXTINF:0,Abercrombie & Fitch: Ascens„o e Queda (2022) )
+#EXTINF:0,Abercrombie & Fitch: Ascens√£o e Queda (2022) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249820.mp4
 #EXTINF:0,Crush: Amor Colorido (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249821.mp4
@@ -2012,13 +2012,13 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249861.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249862.mp4
 #EXTINF:0,O Comando (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249863.mp4
-#EXTINF:0,TÙ Ryca 2 (2022)
+#EXTINF:0,T√¥ Ryca 2 (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249864.mp4
-#EXTINF:0,Quarent„o (2022)
+#EXTINF:0,Quarent√£o (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249911.mp4
 #EXTINF:0,Os Caras Malvados (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249918.mp4
-#EXTINF:0,A Caminho do Ver„o (2022)
+#EXTINF:0,A Caminho do Ver√£o (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249921.mp4
 #EXTINF:0,Os Opostos Sempre Se Atraem (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249922.mp4
@@ -2028,9 +2028,9 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249923.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249925.mp4
 #EXTINF:0,Doutor Estranho no Multiverso da Loucura (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249927.mp4
-#EXTINF:0,O Soldado que N„o Existeu (2022)
+#EXTINF:0,O Soldado que N√£o Existeu (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249995.mp4
-#EXTINF:0,Animais Fant·sticos: Os Segredos de Dumbledore (2022) )
+#EXTINF:0,Animais Fant√°sticos: Os Segredos de Dumbledore (2022) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/249996.mp4
 #EXTINF:0,Eu Acredito em Conto de Fadas (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/250035.mp4
@@ -2040,11 +2040,11 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/250037.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/250038.mp4
 #EXTINF:0,Cidade Perdida (2022) LEG
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/250039.mp4
-#EXTINF:0,A FamÌlia Perfeita (2022)
+#EXTINF:0,A Fam√≠lia Perfeita (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/250073.mp4
 #EXTINF:0,De Volta ao Baile (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/250079.mp4
-#EXTINF:0,Os TÍnis Encantados (2022)
+#EXTINF:0,Os T√™nis Encantados (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/250086.mp4
 #EXTINF:0,O Homem do Norte (2022) LEG
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/250096.mp4
@@ -2052,7 +2052,7 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/250096.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/250114.mp4
 #EXTINF:0,Onda de Calor (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251290.mp4
-#EXTINF:0,Ambul‚ncia: Um Dia de Crime (2022)
+#EXTINF:0,Ambul√¢ncia: Um Dia de Crime (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251326.mp4
 #EXTINF:0,Casal de Fachada (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251328.mp4
@@ -2072,23 +2072,23 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251434.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251435.mp4
 #EXTINF:0,Boa Viagem (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251619.mp4
-#EXTINF:0,Jovens Tit„s em AÁ„o! & DC Super Hero Girls: Desordem no Multiverso (2022)
+#EXTINF:0,Jovens Tit√£s em A√ß√£o! & DC Super Hero Girls: Desordem no Multiverso (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251620.mp4
 #EXTINF:0,Passado Violento (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251621.mp4
 #EXTINF:0,Vai Dar Nada (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251622.mp4
-#EXTINF:0,CoraÁ„o de Fogo (2022)
+#EXTINF:0,Cora√ß√£o de Fogo (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251624.mp4
 #EXTINF:0,Fortaleza: O Olhar Do Sniper (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251625.mp4
-#EXTINF:0,EmergÍncia (2022)
+#EXTINF:0,Emerg√™ncia (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251716.mp4
 #EXTINF:0,O Homem do Norte (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251784.mp4
-#EXTINF:0,A Extraordin·ria Garota Chamada Estrela em Hollywood (2022) )
+#EXTINF:0,A Extraordin√°ria Garota Chamada Estrela em Hollywood (2022) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251785.mp4
-#EXTINF:0,Fire Island: Orgulho & SeduÁ„o (2022)
+#EXTINF:0,Fire Island: Orgulho & Sedu√ß√£o (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251786.mp4
 #EXTINF:0,Interceptor (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251787.mp4
@@ -2098,9 +2098,9 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251789.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251791.mp4
 #EXTINF:0,South Park: Guerras do Streaming (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251793.mp4
-#EXTINF:0,Luta Pela FÈ: A HistÛria do Padre Stu (2022)
+#EXTINF:0,Luta Pela F√©: A Hist√≥ria do Padre Stu (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251795.mp4
-#EXTINF:0,Alem„o 2 (2022)
+#EXTINF:0,Alem√£o 2 (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251804.mp4
 #EXTINF:0,Arremessando Alto (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251807.mp4
@@ -2112,15 +2112,15 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251811.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251819.mp4
 #EXTINF:0,O Pai da Rita (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251820.mp4
-#EXTINF:0,Os RefÈns de Gladbeck (2022)
+#EXTINF:0,Os Ref√©ns de Gladbeck (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251821.mp4
-#EXTINF:0,Yuri MarÁal: Ledo Engano (2022)
+#EXTINF:0,Yuri Mar√ßal: Ledo Engano (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251823.mp4
 #EXTINF:0,14 Cartas de Amor (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251824.mp4
 #EXTINF:0,Frangoelho e Hamster das Trevas (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251825.mp4
-#EXTINF:0,Ao Infinito e AlÈm: Buzz e sua Jornada para ser Lightyear (2022)
+#EXTINF:0,Ao Infinito e Al√©m: Buzz e sua Jornada para ser Lightyear (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251827.mp4
 #EXTINF:0,Era Uma Vez Um Conto de Fadas (2022) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/251974.mp4
@@ -2134,23 +2134,23 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/252011.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/252012.mp4
 #EXTINF:0,Um Dia para Morrer (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/252013.mp4
-#EXTINF:0,Medida ProvisÛria (2022)
+#EXTINF:0,Medida Provis√≥ria (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/252014.mp4
 #EXTINF:0,Exorcismo Sagrado (2022) LEG
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/252015.mp4
 #EXTINF:0,Assassino Sem Rastro (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/252027.mp4
-#EXTINF:0,Dois Amigos e uma AmeaÁa AlienÌgena (2022)
+#EXTINF:0,Dois Amigos e uma Amea√ßa Alien√≠gena (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/252120.mp4
 #EXTINF:0,A Princesa (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/252421.mp4
-#EXTINF:0,Thor: Amor e Trov„o (2022) CAM
+#EXTINF:0,Thor: Amor e Trov√£o (2022) CAM
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/252592.mp4
 #EXTINF:0,A Garota da Foto (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/252468.mp4
 #EXTINF:0,Adeus e Tudo Mais (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/252426.mp4
-#EXTINF:0,VinganÁa Fatal (2022)
+#EXTINF:0,Vingan√ßa Fatal (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/252427.mp4
 #EXTINF:0,A Fera do Mar (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/253414.mp4
@@ -2162,7 +2162,7 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/253416.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/253423.mp4
 #EXTINF:0,Hot Seat (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/253424.mp4
-#EXTINF:0,LigaÁıes Perigosas (2022)
+#EXTINF:0,Liga√ß√µes Perigosas (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/253425.mp4
 #EXTINF:0,Malibu Crush (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/253426.mp4
@@ -2178,35 +2178,35 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/253934.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/253935.mp4
 #EXTINF:0,Flee: Nenhum Lugar Para Chamar de Lar ( 2021)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/253936.mp4
-#EXTINF:0,Jurassic World: DomÌnio (2022)
+#EXTINF:0,Jurassic World: Dom√≠nio (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/253937.mp4
-#EXTINF:0,O PreÁo da SeduÁ„o (2022)
+#EXTINF:0,O Pre√ßo da Sedu√ß√£o (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/253940.mp4
-#EXTINF:0,N„o Me Diga Adeus (2022)
+#EXTINF:0,N√£o Me Diga Adeus (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/254045.mp4
 #EXTINF:0,ZOMBIES 3 (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/254046.mp4
-#EXTINF:0,Persuas„o (2022)
+#EXTINF:0,Persuas√£o (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/254048.mp4
 #EXTINF:0,O Sol de Amalfi (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/256912.mp4
 #EXTINF:0,Live is Life (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/257620.mp4
-#EXTINF:0,O ⁄ltimo Drag„o (2022)
+#EXTINF:0,O √öltimo Drag√£o (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/257621.mp4
-#EXTINF:0,VocÍ Radical com Ranveer Singh e Bear Grylls ( 2022)
+#EXTINF:0,Voc√™ Radical com Ranveer Singh e Bear Grylls ( 2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/257622.mp4
 #EXTINF:0,Dakota (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/257623.mp4
-#EXTINF:0,Crescer N„o È Brincadeira (2022)
+#EXTINF:0,Crescer N√£o √© Brincadeira (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/257624.mp4
-#EXTINF:0,Tudo È PossÌvel (2022)
+#EXTINF:0,Tudo √© Poss√≠vel (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/257654.mp4
 #EXTINF:0,Agente Oculto (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/257667.mp4
 #EXTINF:0,Vamos Conservar o Mundo (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/257744.mp4
-#EXTINF:0,Chamas da VinganÁa (2022)
+#EXTINF:0,Chamas da Vingan√ßa (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/257749.mp4
 #EXTINF:0,Retorno (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/257794.mp4
@@ -2216,7 +2216,7 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/257805.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/257806.mp4
 #EXTINF:0,A Suspeita (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/257808.mp4
-#EXTINF:0,ContinÍncia ao Amor (2022)
+#EXTINF:0,Contin√™ncia ao Amor (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258164.mp4
 #EXTINF:0,Hora de Brilhar (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258166.mp4
@@ -2234,9 +2234,9 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258183.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258260.mp4
 #EXTINF:0,Carter (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258261.mp4
-#EXTINF:0,LEGO Star Wars: FÈrias de Ver„o (2022) )
+#EXTINF:0,LEGO Star Wars: F√©rias de Ver√£o (2022) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258262.mp4
-#EXTINF:0,O Predador: A CaÁada (2022)
+#EXTINF:0,O Predador: A Ca√ßada (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258263.mp4
 #EXTINF:0,Sorte (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258264.mp4
@@ -2246,35 +2246,35 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258266.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258268.mp4
 #EXTINF:0,Treze Vidas: O Resgate (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258269.mp4
-#EXTINF:0,Terror no Est˙dio 666 (2022)
+#EXTINF:0,Terror no Est√∫dio 666 (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258270.mp4
 #EXTINF:0,O Despertar das Tartarugas Ninja: O Filme ( 2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258271.mp4
-#EXTINF:0,A ⁄ltima VÌtima (2022)
+#EXTINF:0,A √öltima V√≠tima (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258272.mp4
 #EXTINF:0,Asking For It (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258291.mp4
 #EXTINF:0,Darlings (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258292.mp4
-#EXTINF:0,Duplamente Gr·vida 2 (2022)
+#EXTINF:0,Duplamente Gr√°vida 2 (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258293.mp4
 #EXTINF:0,Elvis (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258294.mp4
 #EXTINF:0,Viajantes: Perdidos No Tempo (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258298.mp4
-#EXTINF:0,Uma Amizade TÛxica (2022)
+#EXTINF:0,Uma Amizade T√≥xica (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258423.mp4
-#EXTINF:0,A Verdadeira HistÛria do Roubo do SÈculo (2022) )
+#EXTINF:0,A Verdadeira Hist√≥ria do Roubo do S√©culo (2022) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258467.mp4
-#EXTINF:0,Na Sinfonia do CoraÁ„o (2022)
+#EXTINF:0,Na Sinfonia do Cora√ß√£o (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258477.mp4
 #EXTINF:0,Minions 2: A Origem de Gru (2022) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258511.mp4
-#EXTINF:0,Crescer È Muito Chato (2022)
+#EXTINF:0,Crescer √© Muito Chato (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258526.mp4
 #EXTINF:0,13: O Musical (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258527.mp4
-#EXTINF:0,CÛdigo: Imperador (2022)
+#EXTINF:0,C√≥digo: Imperador (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258529.mp4
 #EXTINF:0,Dupla Jornada (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258530.mp4
@@ -2282,7 +2282,7 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258530.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258554.mp4
 #EXTINF:0,Luccas Neto em: A Gincana Na Netoland ( 2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258571.mp4
-#EXTINF:0,O Atirador: Miss„o Secreta (2022)
+#EXTINF:0,O Atirador: Miss√£o Secreta (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258600.mp4
 #EXTINF:0,Snoopy Apresenta: A Escola da Lucy (2022) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258601.mp4
@@ -2292,29 +2292,29 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258603.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258604.mp4
 #EXTINF:0,365 Dias Finais (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258863.mp4
-#EXTINF:0,CaÁando Ava Bravo (2022)
+#EXTINF:0,Ca√ßando Ava Bravo (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258865.mp4
-#EXTINF:0,Fullmetal Alchemist: A VinganÁa de Scar (2022) )
+#EXTINF:0,Fullmetal Alchemist: A Vingan√ßa de Scar (2022) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258866.mp4
 #EXTINF:0,Top Gun: Maverick (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/259368.mp4
-#EXTINF:0,Constantine: A Casa dos MistÈrios (2022)
+#EXTINF:0,Constantine: A Casa dos Mist√©rios (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/259369.mp4
 #EXTINF:0,DC Liga dos Superpets (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/259561.mp4
-#EXTINF:0,”rf„ 2: A Origem (2022)( Legendado)
+#EXTINF:0,√ìrf√£ 2: A Origem (2022)( Legendado)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/260096.mp4
 #EXTINF:0,A Dupla Explosiva (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/260097.mp4
-#EXTINF:0,PolÍmico e Fugitivo (2022)
+#EXTINF:0,Pol√™mico e Fugitivo (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/260098.mp4
-#EXTINF:0,Marcas da MaldiÁ„o (2022)
+#EXTINF:0,Marcas da Maldi√ß√£o (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/260138.mp4
 #EXTINF:0,O Caso Figo: A que Mudou o Futebol (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/260139.mp4
 #EXTINF:0,Thats Amor (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/260140.mp4
-#EXTINF:0,De FÈrias da FamÌlia (2022)
+#EXTINF:0,De F√©rias da Fam√≠lia (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/260273.mp4
 #EXTINF:0,Seul em Alta Velocidade (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/260274.mp4
@@ -2340,11 +2340,11 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/263331.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/263332.mp4
 #EXTINF:0,Vizinhos (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/263333.mp4
-#EXTINF:0,007: A ServiÁo Secreto de Sua Majestade (1969)
+#EXTINF:0,007: A Servi√ßo Secreto de Sua Majestade (1969)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201055.mp4
 #EXTINF:0,007: Cassino Royale (2006)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201056.mp4
-#EXTINF:0,007: Contra a Chantagem AtÙmica (1965) )
+#EXTINF:0,007: Contra a Chantagem At√¥mica (1965) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201057.mp4
 #EXTINF:0,007 Contra GoldenEye (1995)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201058.mp4
@@ -2356,7 +2356,7 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201060.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201061.mp4
 #EXTINF:0,007 Contra o Homem com a Pistola de Ouro (1974)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201062.mp4
-#EXTINF:0,007: Contra o Sat‚nico Dr. No (1962)
+#EXTINF:0,007: Contra o Sat√¢nico Dr. No (1962)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201063.mp4
 #EXTINF:0,007 Contra Spectre (2015)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201064.mp4
@@ -2364,15 +2364,15 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201064.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201065.mp4
 #EXTINF:0,007 Na Mira dos Assassinos (1985)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201066.mp4
-#EXTINF:0,007: OperaÁ„o Skyfall (2012)
+#EXTINF:0,007: Opera√ß√£o Skyfall (2012)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201067.mp4
-#EXTINF:0,007: Os Diamantes S„o Eternos (1971) )
+#EXTINF:0,007: Os Diamantes S√£o Eternos (1971) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201068.mp4
-#EXTINF:0,007: O Amanh„ Nunca Morre (1997 )
+#EXTINF:0,007: O Amanh√£ Nunca Morre (1997 )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201069.mp4
-#EXTINF:0,007: O Espi„o Que Me Amava ( 1977)
+#EXTINF:0,007: O Espi√£o Que Me Amava ( 1977)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201070.mp4
-#EXTINF:0,007: O Mundo N„o È o Bastante (1999)
+#EXTINF:0,007: O Mundo N√£o √© o Bastante (1999)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201071.mp4
 #EXTINF:0,007: Quantum of Solace (2008)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201072.mp4
@@ -2380,7 +2380,7 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201072.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201073.mp4
 #EXTINF:0,007: Um Novo Dia para Morrer ( 2002)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201074.mp4
-#EXTINF:0,007 - Permiss„o para Matar (1989)
+#EXTINF:0,007 - Permiss√£o para Matar (1989)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201075.mp4
 #EXTINF:0,12 Rodadas (2009)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201076.mp4
@@ -2404,11 +2404,11 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201084.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201085.mp4
 #EXTINF:0,300 (2007)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201086.mp4
-#EXTINF:0,300: A Ascens„o do ImpÈrio (2014) )
+#EXTINF:0,300: A Ascens√£o do Imp√©rio (2014) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201087.mp4
 #EXTINF:0,2012 (2009)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201088.mp4
-#EXTINF:0,2019: O Ano da ExtinÁ„o (2009) )
+#EXTINF:0,2019: O Ano da Extin√ß√£o (2009) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201089.mp4
 #EXTINF:0,7500 (2019)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201090.mp4
@@ -2418,39 +2418,39 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201092.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201093.mp4
 #EXTINF:0,Alma de Guerreiro (2019)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201094.mp4
-#EXTINF:0,Alta Tens„o (1990)
+#EXTINF:0,Alta Tens√£o (1990)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201095.mp4
 #EXTINF:0,Amanhecer Violento (2012)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201096.mp4
-#EXTINF:0,AmeaÁa Subterr‚nea (1997)
+#EXTINF:0,Amea√ßa Subterr√¢nea (1997)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201097.mp4
 #EXTINF:0,Anaconda (1997)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201098.mp4
-#EXTINF:0,Anaconda 2: A CaÁada pela OrquÌdea Sangrenta (2004)
+#EXTINF:0,Anaconda 2: A Ca√ßada pela Orqu√≠dea Sangrenta (2004)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201099.mp4
 #EXTINF:0,Anaconda 3 (2008)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201100.mp4
 #EXTINF:0,Anaconda 4 (2009)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201101.mp4
-#EXTINF:0,Anjos da Vida: Mais Bravos Que o marÁo (2006)
+#EXTINF:0,Anjos da Vida: Mais Bravos Que o mar√ßo (2006)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201102.mp4
 #EXTINF:0,Apocalypto (2006)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201103.mp4
-#EXTINF:0,Aprendiz de Espi„ (2020)
+#EXTINF:0,Aprendiz de Espi√£ (2020)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201104.mp4
 #EXTINF:0,Armageddon (1998)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201106.mp4
 #EXTINF:0,Arma Secreta (2019)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201107.mp4
-#EXTINF:0,Arranha-CÈu: Coragem Sem Limite ( 2018)
+#EXTINF:0,Arranha-C√©u: Coragem Sem Limite ( 2018)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201108.mp4
 #EXTINF:0,Assalto ao Banco Central (2011)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201109.mp4
 #EXTINF:0,Assalto ao Carro Blindado (2009)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201110.mp4
-#EXTINF:0,Assassino a PreÁo Fixo (2011)
+#EXTINF:0,Assassino a Pre√ßo Fixo (2011)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201111.mp4
-#EXTINF:0,Assassino a PreÁo Fixo 2 - A RessurreiÁ„o (2016)
+#EXTINF:0,Assassino a Pre√ßo Fixo 2 - A Ressurrei√ß√£o (2016)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201112.mp4
 #EXTINF:0,Assassins Creed (2016)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201113.mp4
@@ -2468,27 +2468,27 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201118.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201119.mp4
 #EXTINF:0,Atentado em Paris (2016)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201120.mp4
-#EXTINF:0,AtÙmica (2017)
+#EXTINF:0,At√¥mica (2017)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201121.mp4
-#EXTINF:0,Atos de ViolÍncia (2018)
+#EXTINF:0,Atos de Viol√™ncia (2018)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201122.mp4
-#EXTINF:0,AtraÁ„o de Risco (2020)
+#EXTINF:0,Atra√ß√£o de Risco (2020)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201123.mp4
-#EXTINF:0,AtÈ o Limite da Honra (1997)
+#EXTINF:0,At√© o Limite da Honra (1997)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201124.mp4
 #EXTINF:0,Ava (2020)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201125.mp4
-#EXTINF:0,Aves de Rapina: Arlequina e sua EmancipaÁ„o Fantabulosa (2020)
+#EXTINF:0,Aves de Rapina: Arlequina e sua Emancipa√ß√£o Fantabulosa (2020)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201126.mp4
 #EXTINF:0,A Arte da Autodefesa (2019)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201127.mp4
 #EXTINF:0,A Cartada Final (2001)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201128.mp4
-#EXTINF:0,A CaÁada (2020)
+#EXTINF:0,A Ca√ßada (2020)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201129.mp4
-#EXTINF:0,A Divis„o (2020)
+#EXTINF:0,A Divis√£o (2020)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201130.mp4
-#EXTINF:0,A FamÌlia (2013)
+#EXTINF:0,A Fam√≠lia (2013)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201131.mp4
 #EXTINF:0,A Grande Muralha (1986)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201132.mp4
@@ -2510,17 +2510,17 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201139.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201140.mp4
 #EXTINF:0,A Lenda de Tarzan (2016)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201141.mp4
-#EXTINF:0,O Retorno da M˙mia (2001)
+#EXTINF:0,O Retorno da M√∫mia (2001)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201143.mp4
-#EXTINF:0,A M˙mia - Tumba do Imperador ( 2008)
+#EXTINF:0,A M√∫mia - Tumba do Imperador ( 2008)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201144.mp4
-#EXTINF:0,A M˙mia (1999)
+#EXTINF:0,A M√∫mia (1999)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201145.mp4
-#EXTINF:0,A M·scara do Zorro (1998)
+#EXTINF:0,A M√°scara do Zorro (1998)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201146.mp4
-#EXTINF:0,A M˙mia (1999)
+#EXTINF:0,A M√∫mia (1999)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201147.mp4
-#EXTINF:0,A NegociaÁ„o (1998)
+#EXTINF:0,A Negocia√ß√£o (1998)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201148.mp4
 #EXTINF:0,A Noite nos Persegue (2018)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201149.mp4
@@ -2530,11 +2530,11 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201150.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201151.mp4
 #EXTINF:0,A Senha: Swordfish (2001)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201152.mp4
-#EXTINF:0,A Sombra e Escurid„o (1996)
+#EXTINF:0,A Sombra e Escurid√£o (1996)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201153.mp4
-#EXTINF:0,A SÈrie Divergente: Convergente (2016)
+#EXTINF:0,A S√©rie Divergente: Convergente (2016)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201154.mp4
-#EXTINF:0,A SÈrie Divergente: Insurgente (2015)
+#EXTINF:0,A S√©rie Divergente: Insurgente (2015)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201155.mp4
 #EXTINF:0,A Terra e o Sangue (2020)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201156.mp4
@@ -2544,17 +2544,17 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201157.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201158.mp4
 #EXTINF:0,Travessia (2019)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201159.mp4
-#EXTINF:0,A Vigilante do Amanh„: Ghost in the Concha (2017)
+#EXTINF:0,A Vigilante do Amanh√£: Ghost in the Concha (2017)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201160.mp4
-#EXTINF:0,A ⁄ltima AmeaÁa (1996)
+#EXTINF:0,A √öltima Amea√ßa (1996)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201161.mp4
-#EXTINF:0,A ⁄ltima Fortaleza (2001)
+#EXTINF:0,A √öltima Fortaleza (2001)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201162.mp4
-#EXTINF:0,B13: 13∫ Distrito
+#EXTINF:0,B13: 13¬∫ Distrito
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201163.mp4
-#EXTINF:0,B13: 13∫ Distrito (2004)
+#EXTINF:0,B13: 13¬∫ Distrito (2004)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201164.mp4
-#EXTINF:0,13∞ Distrito - Ultimato (2009)
+#EXTINF:0,13¬∞ Distrito - Ultimato (2009)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201165.mp4
 #EXTINF:0,Bad Ass: Acima da Lei (2012) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201166.mp4
@@ -2564,13 +2564,13 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201167.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201168.mp4
 #EXTINF:0,Bad Boys Para Sempre (2020)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201169.mp4
-#EXTINF:0,Baahubali: O InÌcio (2015)
+#EXTINF:0,Baahubali: O In√≠cio (2015)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201170.mp4
 #EXTINF:0,Battleship: A Batalha dos Mares (2012) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201175.mp4
 #EXTINF:0,Belas e Perseguidas (2015)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201176.mp4
-#EXTINF:0,Bem-vindo ‡ Selva (2003)
+#EXTINF:0,Bem-vindo √† Selva (2003)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201177.mp4
 #EXTINF:0,Ben-Hur (2016)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201178.mp4
@@ -2578,17 +2578,17 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201178.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201179.mp4
 #EXTINF:0,Estrada Alucinante (1998)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201180.mp4
-#EXTINF:0,Na Escurid„o do Oceano (2018)
+#EXTINF:0,Na Escurid√£o do Oceano (2018)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201181.mp4
-#EXTINF:0,Blade: O CaÁador de Vampiros (1998) )
+#EXTINF:0,Blade: O Ca√ßador de Vampiros (1998) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201182.mp4
 #EXTINF:0,Blade: Trinity (2004)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201183.mp4
-#EXTINF:0,Blade II: O CaÁador de Vampiros ( 2002)
+#EXTINF:0,Blade II: O Ca√ßador de Vampiros ( 2002)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201184.mp4
 #EXTINF:0,Inimigo Mortal (2017)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201185.mp4
-#EXTINF:0,Bloodrayne 2: LibertaÁ„o (2007)
+#EXTINF:0,Bloodrayne 2: Liberta√ß√£o (2007)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201186.mp4
 #EXTINF:0,Bloodrayne 3: O Terceiro Reich (2010 )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201187.mp4
@@ -2596,19 +2596,19 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201187.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201188.mp4
 #EXTINF:0,Bloodshot (2020)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201189.mp4
-#EXTINF:0,O ImbatÌvel (2002)
+#EXTINF:0,O Imbat√≠vel (2002)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201190.mp4
 #EXTINF:0,O Lutador (2006)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201191.mp4
-#EXTINF:0,O ImbatÌvel III: RedenÁ„o (2010)
+#EXTINF:0,O Imbat√≠vel III: Reden√ß√£o (2010)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201192.mp4
-#EXTINF:0,Boyka: O ImbatÌvel (2016)
+#EXTINF:0,Boyka: O Imbat√≠vel (2016)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201193.mp4
 #EXTINF:0,Bright (2017)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201194.mp4
-#EXTINF:0,A F˙ria do Drag„o (1972)
+#EXTINF:0,A F√∫ria do Drag√£o (1972)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201196.mp4
-#EXTINF:0,O VÙo do Drag„o (1972)
+#EXTINF:0,O V√¥o do Drag√£o (1972)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201197.mp4
 #EXTINF:0,Jogo da Morte (1978)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201198.mp4
@@ -2616,23 +2616,23 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201198.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201199.mp4
 #EXTINF:0,Bruce Lee: A Jornada de um Guerreiro (2000)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201200.mp4
-#EXTINF:0,a CaÁa Vampiros (1992)
+#EXTINF:0,a Ca√ßa Vampiros (1992)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201201.mp4
 #EXTINF:0,Bumblebee (2018)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201202.mp4
-#EXTINF:0,Busca Implac·vel (2008)
+#EXTINF:0,Busca Implac√°vel (2008)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201203.mp4
-#EXTINF:0,Busca Implac·vel 2 (2012)
+#EXTINF:0,Busca Implac√°vel 2 (2012)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201204.mp4
-#EXTINF:0,Busca Implac·vel 3 (2014)
+#EXTINF:0,Busca Implac√°vel 3 (2014)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201205.mp4
-#EXTINF:0,CaÁada Brutal (2017)
+#EXTINF:0,Ca√ßada Brutal (2017)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201206.mp4
-#EXTINF:0,CaÁadores de EmoÁ„o: AlÈm do Limite ( 2015)
+#EXTINF:0,Ca√ßadores de Emo√ß√£o: Al√©m do Limite ( 2015)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201207.mp4
-#EXTINF:0,C„o Selvagem (2017)
+#EXTINF:0,C√£o Selvagem (2017)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201208.mp4
-#EXTINF:0,Capit„o Phillips (2013)
+#EXTINF:0,Capit√£o Phillips (2013)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201209.mp4
 #EXTINF:0,Carandiru (2003)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201210.mp4
@@ -2642,25 +2642,25 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201211.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201212.mp4
 #EXTINF:0,Carga Explosiva 3 (2008)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201213.mp4
-#EXTINF:0,CaÁadores de EmoÁ„o (1991)
+#EXTINF:0,Ca√ßadores de Emo√ß√£o (1991)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201214.mp4
 #EXTINF:0,Centro de Trauma (2019)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201215.mp4
-#EXTINF:0,Chamas da VinganÁa (1984)
+#EXTINF:0,Chamas da Vingan√ßa (1984)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201216.mp4
 #EXTINF:0,Chappie (2015)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201217.mp4
-#EXTINF:0,CÌrculo de Fogo: A Revolta (2018) )
+#EXTINF:0,C√≠rculo de Fogo: A Revolta (2018) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201219.mp4
-#EXTINF:0,CÌrculo de Fogo: A Revolta (2018) )
+#EXTINF:0,C√≠rculo de Fogo: A Revolta (2018) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201220.mp4
-#EXTINF:0,CÌrculo de Fogo (2013)
+#EXTINF:0,C√≠rculo de Fogo (2013)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201221.mp4
-#EXTINF:0,Comando ImbatÌvel (1990)
+#EXTINF:0,Comando Imbat√≠vel (1990)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201222.mp4
 #EXTINF:0,Comando para Matar (1985)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201223.mp4
-#EXTINF:0,Com 007 SÛ Se Vive Duas Vezes ( 1967)
+#EXTINF:0,Com 007 S√≥ Se Vive Duas Vezes ( 1967)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201224.mp4
 #EXTINF:0,Com 007 Viva e Deixe Morrer (1973) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201225.mp4
@@ -2668,19 +2668,19 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201225.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201226.mp4
 #EXTINF:0,o Destruidor (1984)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201227.mp4
-#EXTINF:0,CondenaÁ„o Brutal (1989)
+#EXTINF:0,Condena√ß√£o Brutal (1989)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201228.mp4
-#EXTINF:0,Conex„o Jamaica (2002)
+#EXTINF:0,Conex√£o Jamaica (2002)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201229.mp4
 #EXTINF:0,Contra Ataque (2018)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201230.mp4
 #EXTINF:0,Con Air: A Rota da Fuga ( 1997)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201231.mp4
-#EXTINF:0,CoraÁ„o Valente (1995)
+#EXTINF:0,Cora√ß√£o Valente (1995)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201232.mp4
-#EXTINF:0,CoraÁıes de Ferro (2014)
+#EXTINF:0,Cora√ß√µes de Ferro (2014)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201233.mp4
-#EXTINF:0,Cores da JustiÁa (2019)
+#EXTINF:0,Cores da Justi√ßa (2019)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201234.mp4
 #EXTINF:0,Corridas Clandestinas (2003)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201236.mp4
@@ -2692,19 +2692,19 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201238.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201239.mp4
 #EXTINF:0,Corrida Mortal: Anarquia (2018)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201240.mp4
-#EXTINF:0,Covil de Ladrıes (2018)
+#EXTINF:0,Covil de Ladr√µes (2018)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201241.mp4
-#EXTINF:0,Crime Sem SaÌda (2019)
+#EXTINF:0,Crime Sem Sa√≠da (2019)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201242.mp4
-#EXTINF:0,C„o de Briga (2005)
+#EXTINF:0,C√£o de Briga (2005)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201243.mp4
 #EXTINF:0,Darc (2018)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201244.mp4
-#EXTINF:0,Darkman: VinganÁa Sem Rosto (1990)
+#EXTINF:0,Darkman: Vingan√ßa Sem Rosto (1990)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201245.mp4
 #EXTINF:0,Darkman 2: O Retorno de Durant ( 1995)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201246.mp4
-#EXTINF:0,Darkman: VinganÁa Sem Rosto (1990)
+#EXTINF:0,Darkman: Vingan√ßa Sem Rosto (1990)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201247.mp4
 #EXTINF:0,O Desconhecido (1978)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201248.mp4
@@ -2716,31 +2716,31 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201250.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201251.mp4
 #EXTINF:0,Desejo de Matar 3 (1985)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201252.mp4
-#EXTINF:0,Desejo de Matar 4: OperaÁ„o Crackdown ( 1987)
+#EXTINF:0,Desejo de Matar 4: Opera√ß√£o Crackdown ( 1987)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201253.mp4
 #EXTINF:0,Deuses do Egito (2016)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201254.mp4
-#EXTINF:0,Dias de Trov„o (2015)
+#EXTINF:0,Dias de Trov√£o (2015)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201255.mp4
 #EXTINF:0,Dia de Treinamento (2001)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201256.mp4
-#EXTINF:0,DifÌcil de Matar (1990)
+#EXTINF:0,Dif√≠cil de Matar (1990)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201257.mp4
 #EXTINF:0,Divergente (2014)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201258.mp4
-#EXTINF:0,RobÙ (2004)
+#EXTINF:0,Rob√¥ (2004)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201284.mp4
-#EXTINF:0,Eu Sou a F˙ria (2016)
+#EXTINF:0,Eu Sou a F√∫ria (2016)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201285.mp4
-#EXTINF:0,Eu Sou o N˙mero Quatro (2011)
+#EXTINF:0,Eu Sou o N√∫mero Quatro (2011)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201286.mp4
-#EXTINF:0,Expresso do Amanh„ (2013)
+#EXTINF:0,Expresso do Amanh√£ (2013)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201287.mp4
-#EXTINF:0,Falc„o Negro em Perigo (2001)
+#EXTINF:0,Falc√£o Negro em Perigo (2001)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201288.mp4
-#EXTINF:0,o Campe„o dos Campeıes (1987)
+#EXTINF:0,o Campe√£o dos Campe√µes (1987)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201289.mp4
-#EXTINF:0,Feito na AmÈrica (2017)
+#EXTINF:0,Feito na Am√©rica (2017)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201290.mp4
 #EXTINF:0,Fim dos Tempos (2012)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201291.mp4
@@ -2748,29 +2748,29 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201291.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201292.mp4
 #EXTINF:0,Fogo Contra Fogo (2012)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201293.mp4
-#EXTINF:0,Fomos HerÛis (2002)
+#EXTINF:0,Fomos Her√≥is (2002)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201294.mp4
-#EXTINF:0,F˙ria de Tit„s (2010)
+#EXTINF:0,F√∫ria de Tit√£s (2010)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201295.mp4
-#EXTINF:0,F˙ria de Tit„s 2 (2012)
+#EXTINF:0,F√∫ria de Tit√£s 2 (2012)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201296.mp4
-#EXTINF:0,F˙ria em Alto Mar (2018)
+#EXTINF:0,F√∫ria em Alto Mar (2018)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201297.mp4
-#EXTINF:0,F˙ria em Duas Rodas (2004)
+#EXTINF:0,F√∫ria em Duas Rodas (2004)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201298.mp4
-#EXTINF:0,F˙ria Sobre Rodas (2011)
+#EXTINF:0,F√∫ria Sobre Rodas (2011)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201299.mp4
-#EXTINF:0,F˙ria de Tit„s (1981)
+#EXTINF:0,F√∫ria de Tit√£s (1981)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201300.mp4
-#EXTINF:0,F˙ria Mortal (1991)
+#EXTINF:0,F√∫ria Mortal (1991)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201301.mp4
 #EXTINF:0,GI Joe: A Origem de Cobra ( 2009)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201302.mp4
-#EXTINF:0,GI Joe: RetaliaÁ„o (2013)
+#EXTINF:0,GI Joe: Retalia√ß√£o (2013)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201303.mp4
 #EXTINF:0,Garantia de Morte (1990)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201304.mp4
-#EXTINF:0,Gigantes de AÁo (2011)
+#EXTINF:0,Gigantes de A√ßo (2011)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201305.mp4
 #EXTINF:0,Gladiador (2000)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201306.mp4
@@ -2780,7 +2780,7 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201307.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201308.mp4
 #EXTINF:0,Guerreira De Sangue (2016)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201309.mp4
-#EXTINF:0,Guerreiro da Escurid„o (2017)
+#EXTINF:0,Guerreiro da Escurid√£o (2017)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201310.mp4
 #EXTINF:0,Hacker (2015)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201311.mp4
@@ -2790,7 +2790,7 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201312.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201313.mp4
 #EXTINF:0,Highlander: O Guerreiro Imortal (1986)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201314.mp4
-#EXTINF:0,Highlander 2: A RessurreiÁ„o (1991)
+#EXTINF:0,Highlander 2: A Ressurrei√ß√£o (1991)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201315.mp4
 #EXTINF:0,Highlander 3: O Feiticeiro (1994)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201316.mp4
@@ -2806,7 +2806,7 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201320.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201321.mp4
 #EXTINF:0,Horizonte Profundo: Desastre no Golfo (2016) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201322.mp4
-#EXTINF:0,HÈrcules (2014)
+#EXTINF:0,H√©rcules (2014)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201323.mp4
 #EXTINF:0,Impacto Profundo (1998)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201324.mp4
@@ -2816,17 +2816,17 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201325.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201326.mp4
 #EXTINF:0,Instinto Predador (2019)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201327.mp4
-#EXTINF:0,Invas„o ‡ Casa Branca (2013)
+#EXTINF:0,Invas√£o √† Casa Branca (2013)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201328.mp4
-#EXTINF:0,Invas„o a Londres (2016)
+#EXTINF:0,Invas√£o a Londres (2016)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201329.mp4
-#EXTINF:0,Invas„o ao ServiÁo Secreto (2019)
+#EXTINF:0,Invas√£o ao Servi√ßo Secreto (2019)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201330.mp4
-#EXTINF:0,Invas„o Zumbi 2: PenÌnsula (2020)
+#EXTINF:0,Invas√£o Zumbi 2: Pen√≠nsula (2020)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201331.mp4
-#EXTINF:0,Jack: O CaÁador de Gigantes (2013) )
+#EXTINF:0,Jack: O Ca√ßador de Gigantes (2013) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201332.mp4
-#EXTINF:0,Jack Reacher: O ⁄ltimo Tiro (2012) )
+#EXTINF:0,Jack Reacher: O √öltimo Tiro (2012) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201333.mp4
 #EXTINF:0,Jack Reacher: Sem Retorno (2016)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201334.mp4
@@ -2834,9 +2834,9 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201334.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201335.mp4
 #EXTINF:0,Jogos Vorazes: Em Chamas (2013)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201336.mp4
-#EXTINF:0,Jogos Vorazes: A EsperanÁa - Parte 1 (2014)
+#EXTINF:0,Jogos Vorazes: A Esperan√ßa - Parte 1 (2014)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201337.mp4
-#EXTINF:0,Jogos Vorazes: A EsperanÁa - O Final (2015)
+#EXTINF:0,Jogos Vorazes: A Esperan√ßa - O Final (2015)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201338.mp4
 #EXTINF:0,John Carter: Entre Dois Mundos (2012 )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201339.mp4
@@ -2854,15 +2854,15 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201344.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201345.mp4
 #EXTINF:0,K-911: Um Policial Bom pra Cachorro 2 (1999)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201346.mp4
-#EXTINF:0,KaratÍ Kid: A Hora da Verdade ( 1984)
+#EXTINF:0,Karat√™ Kid: A Hora da Verdade ( 1984)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201347.mp4
-#EXTINF:0,KaratÍ Kid 2: A Hora da Verdade Continua (1986)
+#EXTINF:0,Karat√™ Kid 2: A Hora da Verdade Continua (1986)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201348.mp4
-#EXTINF:0,KaratÍ Kid 3: O Desafio Final ( 1989)
+#EXTINF:0,Karat√™ Kid 3: O Desafio Final ( 1989)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201349.mp4
-#EXTINF:0,KaratÍ Kid 4: A Nova Aventura ( 1994)
+#EXTINF:0,Karat√™ Kid 4: A Nova Aventura ( 1994)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201350.mp4
-#EXTINF:0,KaratÍ Kid (2010)
+#EXTINF:0,Karat√™ Kid (2010)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201351.mp4
 #EXTINF:0,Kick-Ass: Quebrando Tudo (2010) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201352.mp4
@@ -2870,7 +2870,7 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201352.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201353.mp4
 #EXTINF:0,Kickboxer King (1991)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201354.mp4
-#EXTINF:0,Kickboxer 2: A VinganÁa do Drag„o ( 1991)
+#EXTINF:0,Kickboxer 2: A Vingan√ßa do Drag√£o ( 1991)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201355.mp4
 #EXTINF:0,Kickboxer 3: A Arte da Guerra ( 1992)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201356.mp4
@@ -2878,21 +2878,21 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201356.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201357.mp4
 #EXTINF:0,Kickboxer 5: O Desafio Final (1995) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201358.mp4
-#EXTINF:0,Kickboxer: A VinganÁa do Drag„o (2016) )
+#EXTINF:0,Kickboxer: A Vingan√ßa do Drag√£o (2016) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201359.mp4
-#EXTINF:0,Kickboxer: A RetaliaÁ„o (2018)
+#EXTINF:0,Kickboxer: A Retalia√ß√£o (2018)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201360.mp4
 #EXTINF:0,Kill Bill: Volume 1 (2003)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201361.mp4
 #EXTINF:0,Kill Bill: Volume 2 (2004)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201362.mp4
-#EXTINF:0,Kingsman: O CÌrculo Dourado (2017)
+#EXTINF:0,Kingsman: O C√≠rculo Dourado (2017)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201363.mp4
-#EXTINF:0,Kingsman: ServiÁo Secreto (2014)
+#EXTINF:0,Kingsman: Servi√ßo Secreto (2014)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201364.mp4
-#EXTINF:0,Kung Pow: O Mestre da Kung- Fu-S„o (2002)
+#EXTINF:0,Kung Pow: O Mestre da Kung- Fu-S√£o (2002)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201365.mp4
-#EXTINF:0,Ladrıes (2015)
+#EXTINF:0,Ladr√µes (2015)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201366.mp4
 #EXTINF:0,Lanterna Verde (2011)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201367.mp4
@@ -2916,15 +2916,15 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201375.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201376.mp4
 #EXTINF:0,Mad Max (1979)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201377.mp4
-#EXTINF:0,Mad Max 2: A CaÁada Continua (1981)
+#EXTINF:0,Mad Max 2: A Ca√ßada Continua (1981)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201378.mp4
-#EXTINF:0,Mad Max: AlÈm da C˙pula do Trov„o (1985)
+#EXTINF:0,Mad Max: Al√©m da C√∫pula do Trov√£o (1985)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201379.mp4
-#EXTINF:0,Mad Max: Estrada da F˙ria (2015)
+#EXTINF:0,Mad Max: Estrada da F√∫ria (2015)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201380.mp4
 #EXTINF:0,Man Down: O Terror da Guerra (2015)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201381.mp4
-#EXTINF:0,Massacre no Bairro JaponÍs (1991)
+#EXTINF:0,Massacre no Bairro Japon√™s (1991)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201382.mp4
 #EXTINF:0,Matrix (1999)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201383.mp4
@@ -2940,39 +2940,39 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201387.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201388.mp4
 #EXTINF:0,Mestres do Universo (1987)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201389.mp4
-#EXTINF:0,Meu Ex È um Espi„o (2018)
+#EXTINF:0,Meu Ex √© um Espi√£o (2018)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201390.mp4
 #EXTINF:0,Midway: Batalha em Alto Mar (2019)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201391.mp4
 #EXTINF:0,Minority Report: A Nova Lei (2002)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201392.mp4
-#EXTINF:0,Miss„o: ImpossÌvel - Efeito Fallout (2018)
+#EXTINF:0,Miss√£o: Imposs√≠vel - Efeito Fallout (2018)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201393.mp4
 #EXTINF:0,Miss Bala (2019)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201394.mp4
-#EXTINF:0,Miss„o: ImpossÌvel (1996)
+#EXTINF:0,Miss√£o: Imposs√≠vel (1996)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201395.mp4
-#EXTINF:0,Miss„o: ImpossÌvel 2 (2000)
+#EXTINF:0,Miss√£o: Imposs√≠vel 2 (2000)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201396.mp4
-#EXTINF:0,Miss„o: ImpossÌvel 3 (2006)
+#EXTINF:0,Miss√£o: Imposs√≠vel 3 (2006)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201397.mp4
-#EXTINF:0,Miss„o: ImpossÌvel - Protocolo Fantasma (2011)
+#EXTINF:0,Miss√£o: Imposs√≠vel - Protocolo Fantasma (2011)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201398.mp4
-#EXTINF:0,Miss„o: ImpossÌvel - NaÁ„o Secreta (2015)
+#EXTINF:0,Miss√£o: Imposs√≠vel - Na√ß√£o Secreta (2015)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201399.mp4
-#EXTINF:0,Miss„o Pijamas (2020)
+#EXTINF:0,Miss√£o Pijamas (2020)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201400.mp4
-#EXTINF:0,Momento CrÌtico (1996)
+#EXTINF:0,Momento Cr√≠tico (1996)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201401.mp4
 #EXTINF:0,Mortal Kombat (1995)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201402.mp4
-#EXTINF:0,Mortal Kombat - A Jornada ComeÁa (1995)
+#EXTINF:0,Mortal Kombat - A Jornada Come√ßa (1995)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201403.mp4
-#EXTINF:0,Mortal Kombat Legends: A VinganÁa de Scorpion (2020)
+#EXTINF:0,Mortal Kombat Legends: A Vingan√ßa de Scorpion (2020)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201404.mp4
-#EXTINF:0,Morte S˙bita (1995)
+#EXTINF:0,Morte S√∫bita (1995)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201405.mp4
-#EXTINF:0,Morte S˙bita (2007)
+#EXTINF:0,Morte S√∫bita (2007)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201406.mp4
 #EXTINF:0,Moscou Contra 007 (1963)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201407.mp4
@@ -2982,17 +2982,17 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201408.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201409.mp4
 #EXTINF:0,Mulher-Gato (2004)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201411.mp4
-#EXTINF:0,M·quina MortÌfera (1987)
+#EXTINF:0,M√°quina Mort√≠fera (1987)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201412.mp4
-#EXTINF:0,M·quina MortÌfera 2 (1989)
+#EXTINF:0,M√°quina Mort√≠fera 2 (1989)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201413.mp4
-#EXTINF:0,M·quina MortÌfera 3 (1992)
+#EXTINF:0,M√°quina Mort√≠fera 3 (1992)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201414.mp4
-#EXTINF:0,M·quina MortÌfera 4 (1998)
+#EXTINF:0,M√°quina Mort√≠fera 4 (1998)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201415.mp4
 #EXTINF:0,Nada a Perder (1997)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201416.mp4
-#EXTINF:0,Na Rota do Tr·fico (2019)
+#EXTINF:0,Na Rota do Tr√°fico (2019)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201417.mp4
 #EXTINF:0,Next Gen (2018)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201418.mp4
@@ -3002,9 +3002,9 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201419.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201420.mp4
 #EXTINF:0,Noite Sem Fim (2015)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201421.mp4
-#EXTINF:0,No Limite do Amanh„ (2014)
+#EXTINF:0,No Limite do Amanh√£ (2014)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201422.mp4
-#EXTINF:0,No Olho do Furac„o (2018)
+#EXTINF:0,No Olho do Furac√£o (2018)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201423.mp4
 #EXTINF:0,No Olho do Tornado (2014)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201424.mp4
@@ -3014,13 +3014,13 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201425.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201426.mp4
 #EXTINF:0,Ong-Bak 2: O Guerreiro Sagrado Voltou (2008)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201427.mp4
-#EXTINF:0,OperaÁ„o Invas„o (2012)
+#EXTINF:0,Opera√ß√£o Invas√£o (2012)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201428.mp4
-#EXTINF:0,OperaÁ„o Invas„o 2 (2014)
+#EXTINF:0,Opera√ß√£o Invas√£o 2 (2014)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201429.mp4
-#EXTINF:0,OperaÁ„o Drag„o (1973)
+#EXTINF:0,Opera√ß√£o Drag√£o (1973)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201430.mp4
-#EXTINF:0,OperaÁ„o Fronteira (2019)
+#EXTINF:0,Opera√ß√£o Fronteira (2019)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201431.mp4
 #EXTINF:0,Os Aventureiros do Bairro Proibido (1986)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201432.mp4
@@ -3028,15 +3028,15 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201432.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201433.mp4
 #EXTINF:0,Os Condenados 2 (2015)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201434.mp4
-#EXTINF:0,Os Indom·veis (2007)
+#EXTINF:0,Os Indom√°veis (2007)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201435.mp4
 #EXTINF:0,Os Instrumentos Mortais: Cidade dos Ossos (2013)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201436.mp4
-#EXTINF:0,Os Mercen·rios 2 (2012)
+#EXTINF:0,Os Mercen√°rios 2 (2012)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201437.mp4
-#EXTINF:0,Os X-Mercen·rios (2014)
+#EXTINF:0,Os X-Mercen√°rios (2014)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201438.mp4
-#EXTINF:0,Os Mercen·rios (2010)
+#EXTINF:0,Os Mercen√°rios (2010)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201439.mp4
 #EXTINF:0,Os Novos Mutantes (2020)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201440.mp4
@@ -3044,25 +3044,25 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201440.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201441.mp4
 #EXTINF:0,Os Perdedores (2010)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201442.mp4
-#EXTINF:0,Os TrÍs Mosqueteiros (1973)
+#EXTINF:0,Os Tr√™s Mosqueteiros (1973)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201443.mp4
-#EXTINF:0,Os ⁄ltimos Cavaleiros (2015)
+#EXTINF:0,Os √öltimos Cavaleiros (2015)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201444.mp4
-#EXTINF:0,O 13∞ Guerreiro (1999)
+#EXTINF:0,O 13¬∞ Guerreiro (1999)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201445.mp4
 #EXTINF:0,O Alvo 2 (2016)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201446.mp4
-#EXTINF:0,O Anel do Rei: A ⁄ltima Batalha (2018)
+#EXTINF:0,O Anel do Rei: A √öltima Batalha (2018)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201447.mp4
 #EXTINF:0,O Assassino: O Primeiro Alvo (2017)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201448.mp4
 #EXTINF:0,O Ataque (2013)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201450.mp4
-#EXTINF:0,O Atirador: O ExtermÌnio Final (2017)
+#EXTINF:0,O Atirador: O Exterm√≠nio Final (2017)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201451.mp4
-#EXTINF:0,O Beijo do Drag„o (2001)
+#EXTINF:0,O Beijo do Drag√£o (2001)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201452.mp4
-#EXTINF:0,O CaÁador e a Rainha do Gelo (2016)
+#EXTINF:0,O Ca√ßador e a Rainha do Gelo (2016)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201453.mp4
 #EXTINF:0,O Carma de Um Assassino (2018)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201454.mp4
@@ -3078,17 +3078,17 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201458.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201459.mp4
 #EXTINF:0,O Destemido (2010)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201460.mp4
-#EXTINF:0,O Dia Depois de Amanh„ (2004)
+#EXTINF:0,O Dia Depois de Amanh√£ (2004)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201461.mp4
-#EXTINF:0,O Escorpi„o Rei (2002)
+#EXTINF:0,O Escorpi√£o Rei (2002)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201462.mp4
-#EXTINF:0,O Escorpi„o Rei 2: A Saga de um Guerreiro (2008)
+#EXTINF:0,O Escorpi√£o Rei 2: A Saga de um Guerreiro (2008)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201463.mp4
-#EXTINF:0,O Escorpi„o Rei 3: Batalha Pela RedenÁ„o (2012)
+#EXTINF:0,O Escorpi√£o Rei 3: Batalha Pela Reden√ß√£o (2012)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201464.mp4
-#EXTINF:0,O Escorpi„o Rei 4: Na Busca Pelo Poder (2015)
+#EXTINF:0,O Escorpi√£o Rei 4: Na Busca Pelo Poder (2015)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201465.mp4
-#EXTINF:0,O Escorpi„o Rei 5: O Livro das Almas (2018)
+#EXTINF:0,O Escorpi√£o Rei 5: O Livro das Almas (2018)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201466.mp4
 #EXTINF:0,O Especialista (1994)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201467.mp4
@@ -3096,19 +3096,19 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201467.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201468.mp4
 #EXTINF:0,O Exterminador do Futuro: Destino Sombrio (2019)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201469.mp4
-#EXTINF:0,O Exterminador do Futuro: GÍnesis (2015)
+#EXTINF:0,O Exterminador do Futuro: G√™nesis (2015)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201470.mp4
-#EXTINF:0,O Exterminador do Futuro: GÍnesis (2015)
+#EXTINF:0,O Exterminador do Futuro: G√™nesis (2015)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201471.mp4
-#EXTINF:0,O Exterminador do Futuro 3: A Rebeli„o das M·quinas (2003)
+#EXTINF:0,O Exterminador do Futuro 3: A Rebeli√£o das M√°quinas (2003)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201472.mp4
-#EXTINF:0,O Exterminador do Futuro: A SalvaÁ„o (2009)
+#EXTINF:0,O Exterminador do Futuro: A Salva√ß√£o (2009)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201473.mp4
-#EXTINF:0,A Lenda do Mestre ChinÍs (2011)
+#EXTINF:0,A Lenda do Mestre Chin√™s (2011)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201474.mp4
 #EXTINF:0,Fim dos Dias (1999)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201475.mp4
-#EXTINF:0,O Grande Drag„o Branco (1988)
+#EXTINF:0,O Grande Drag√£o Branco (1988)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201476.mp4
 #EXTINF:0,O Grande Mestre (2008)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201477.mp4
@@ -3116,9 +3116,9 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201477.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201478.mp4
 #EXTINF:0,O Grande Mestre 3 (2015)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201479.mp4
-#EXTINF:0,O Homem da M·scara de Ferro (1998)
+#EXTINF:0,O Homem da M√°scara de Ferro (1998)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201480.mp4
-#EXTINF:0,O Homem de AÁo (2013)
+#EXTINF:0,O Homem de A√ßo (2013)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201481.mp4
 #EXTINF:0,O Homem Sem Sombra (2000)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201482.mp4
@@ -3142,7 +3142,7 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201490.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201491.mp4
 #EXTINF:0,O Plano Perfeito (2006)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201492.mp4
-#EXTINF:0,O PreÁo do Amanh„ (2011)
+#EXTINF:0,O Pre√ßo do Amanh√£ (2011)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201493.mp4
 #EXTINF:0,O Procurado (2008)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201494.mp4
@@ -3150,21 +3150,21 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201494.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201495.mp4
 #EXTINF:0,O Rei dos Kickboxers (1990)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201496.mp4
-#EXTINF:0,O Retorno do Drag„o A Cidade Perdida (2011)
+#EXTINF:0,O Retorno do Drag√£o A Cidade Perdida (2011)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201497.mp4
 #EXTINF:0,O Turista (2010)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201498.mp4
-#EXTINF:0,O ⁄ltimo Desafio (2013)
+#EXTINF:0,O √öltimo Desafio (2013)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201499.mp4
 #EXTINF:0,O_Ultimo_Grande_Assalto
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201500.mp4
-#EXTINF:0,O ⁄ltimo dos Moicanos (1992)
+#EXTINF:0,O √öltimo dos Moicanos (1992)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201501.mp4
-#EXTINF:0,O ⁄ltimo Grande HerÛi (1993)
+#EXTINF:0,O √öltimo Grande Her√≥i (1993)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201502.mp4
-#EXTINF:0,O ⁄ltimo Samurai (2003)
+#EXTINF:0,O √öltimo Samurai (2003)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201503.mp4
-#EXTINF:0,O ⁄ltimo Viking (2018)
+#EXTINF:0,O √öltimo Viking (2018)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201504.mp4
 #EXTINF:0,Parker (2013)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201505.mp4
@@ -3172,13 +3172,13 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201505.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201506.mp4
 #EXTINF:0,Passageiro 57 (1992)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201507.mp4
-#EXTINF:0,Pequenos Espiıes (2001)
+#EXTINF:0,Pequenos Espi√µes (2001)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201508.mp4
-#EXTINF:0,Pequenos Espiıes 2: A Ilha dos Sonhos Perdidos (2002)
+#EXTINF:0,Pequenos Espi√µes 2: A Ilha dos Sonhos Perdidos (2002)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201509.mp4
-#EXTINF:0,Pequenos Espiıes 3: Game Over (2003)
+#EXTINF:0,Pequenos Espi√µes 3: Game Over (2003)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201510.mp4
-#EXTINF:0,Pequenos Espiıes 4 (2011)
+#EXTINF:0,Pequenos Espi√µes 4 (2011)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201511.mp4
 #EXTINF:0,Perda Total (2018)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201512.mp4
@@ -3188,7 +3188,7 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201513.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201514.mp4
 #EXTINF:0,Platoon (1986)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201515.mp4
-#EXTINF:0,PokÈmon: Detetive Pikachu (2019)
+#EXTINF:0,Pok√©mon: Detetive Pikachu (2019)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201516.mp4
 #EXTINF:0,Polar (2019)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201517.mp4
@@ -3206,15 +3206,15 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201523.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201524.mp4
 #EXTINF:0,Protegendo o Inimigo (2012)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201525.mp4
-#EXTINF:0,PrÛxima Parada: Apocalipse (2018)
+#EXTINF:0,Pr√≥xima Parada: Apocalipse (2018)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201526.mp4
-#EXTINF:0,PrÛxima Fase - Fugindo de Rancala (2019)
+#EXTINF:0,Pr√≥xima Fase - Fugindo de Rancala (2019)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201527.mp4
-#EXTINF:0,Quarteto Fant·stico (2005)
+#EXTINF:0,Quarteto Fant√°stico (2005)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201528.mp4
-#EXTINF:0,Quarteto Fant·stico e o Surfista Prateado (2007)
+#EXTINF:0,Quarteto Fant√°stico e o Surfista Prateado (2007)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201529.mp4
-#EXTINF:0,Quarteto Fant·stico (2015)
+#EXTINF:0,Quarteto Fant√°stico (2015)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201530.mp4
 #EXTINF:0,Queima de Arquivo (1996)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201531.mp4
@@ -3222,45 +3222,45 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201531.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201532.mp4
 #EXTINF:0,Rainhas do Crime (2019)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201533.mp4
-#EXTINF:0,Rambo: AtÈ o Fim (2019)
+#EXTINF:0,Rambo: At√© o Fim (2019)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201534.mp4
 #EXTINF:0,Rambo: Programado Para Matar (1982)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201535.mp4
-#EXTINF:0,Rambo II - A Miss„o (1985)
+#EXTINF:0,Rambo II - A Miss√£o (1985)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201536.mp4
 #EXTINF:0,Rambo III (1988)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201537.mp4
 #EXTINF:0,Rambo IV (2008)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201538.mp4
-#EXTINF:0,Rampage: DestruiÁ„o Total (2018)
+#EXTINF:0,Rampage: Destrui√ß√£o Total (2018)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201539.mp4
-#EXTINF:0,Rede de CorrupÁ„o (2001)
+#EXTINF:0,Rede de Corrup√ß√£o (2001)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201540.mp4
 #EXTINF:0,RED 2: Aposentados e Ainda Mais Perigosos (2013)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201541.mp4
 #EXTINF:0,RED - Aposentados e Perigosos (2010)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201542.mp4
-#EXTINF:0,RefÈm do Jogo (2018)
+#EXTINF:0,Ref√©m do Jogo (2018)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201543.mp4
 #EXTINF:0,Rei Arthur (2004)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201544.mp4
 #EXTINF:0,Rei Arthur: A Lenda da Espada (2017)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201545.mp4
-#EXTINF:0,Resgate em Malibu: A PrÛxima Onda (2020)
+#EXTINF:0,Resgate em Malibu: A Pr√≥xima Onda (2020)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201546.mp4
 #EXTINF:0,Resgate Sem Limites (2003)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201547.mp4
-#EXTINF:0,Resident Evil: A VinganÁa (2017)
+#EXTINF:0,Resident Evil: A Vingan√ßa (2017)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201548.mp4
-#EXTINF:0,Resident Evil: CondenaÁ„o (2012)
+#EXTINF:0,Resident Evil: Condena√ß√£o (2012)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201549.mp4
-#EXTINF:0,Resident Evil: DegeneraÁ„o (2008)
+#EXTINF:0,Resident Evil: Degenera√ß√£o (2008)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201550.mp4
 #EXTINF:0,Reza a Lenda (2016)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201551.mp4
 #EXTINF:0,Robin Hood: A Origem (2018)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201552.mp4
-#EXTINF:0,Robin Hood: O PrÌncipe dos Ladrıes (1991)
+#EXTINF:0,Robin Hood: O Pr√≠ncipe dos Ladr√µes (1991)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201553.mp4
 #EXTINF:0,Robin Hood (2010)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201554.mp4
@@ -3272,9 +3272,9 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201556.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201557.mp4
 #EXTINF:0,Our RoboCop Remake (2014)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201558.mp4
-#EXTINF:0,Rogue One: Uma HistÛria Star Wars (2016)
+#EXTINF:0,Rogue One: Uma Hist√≥ria Star Wars (2016)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201559.mp4
-#EXTINF:0,Rogue Warfare 2: A CaÁada (2019)
+#EXTINF:0,Rogue Warfare 2: A Ca√ßada (2019)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201560.mp4
 #EXTINF:0,Rogue (2020)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201561.mp4
@@ -3300,29 +3300,29 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201570.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201571.mp4
 #EXTINF:0,Uma Noite em Banguecoque (2020)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201632.mp4
-#EXTINF:0,Uma Quest„o de Respeito (1992)
+#EXTINF:0,Uma Quest√£o de Respeito (1992)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201633.mp4
-#EXTINF:0,Uma SaÌda de Mestre (2003)
+#EXTINF:0,Uma Sa√≠da de Mestre (2003)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201634.mp4
-#EXTINF:0,Um Espi„o Animal (2019)
+#EXTINF:0,Um Espi√£o Animal (2019)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201635.mp4
-#EXTINF:0,Um Golpe ‡ Italiana (1969)
+#EXTINF:0,Um Golpe √† Italiana (1969)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201636.mp4
 #EXTINF:0,Um Ninja da Pesada (1997)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201637.mp4
-#EXTINF:0,Upgrade: AtualizaÁ„o (2018)
+#EXTINF:0,Upgrade: Atualiza√ß√£o (2018)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201638.mp4
-#EXTINF:0,Velocidade M·xima (1994)
+#EXTINF:0,Velocidade M√°xima (1994)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201639.mp4
 #EXTINF:0,Velozes e Furiosos (2001)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201640.mp4
 #EXTINF:0,Velozes   Furiosos (2003)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201641.mp4
-#EXTINF:0,Velozes e Furiosos: Desafio em TÛquio (2006)
+#EXTINF:0,Velozes e Furiosos: Desafio em T√≥quio (2006)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201642.mp4
 #EXTINF:0,Velozes e Furiosos 4 (2009)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201643.mp4
-#EXTINF:0,Velozes & Furiosos 5: OperaÁ„o Rio (2011)
+#EXTINF:0,Velozes & Furiosos 5: Opera√ß√£o Rio (2011)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201644.mp4
 #EXTINF:0,Velozes & Furiosos 6 (2013)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201645.mp4
@@ -3836,7 +3836,7 @@ http://conexaoonline.top:80/6339721/3230605/27192
 http://conexaoonline.top:80/6339721/3230605/27205
 #EXTINF:0,24H A TURMA DA PANTERA COR-DE-ROSA
 http://conexaoonline.top:80/6339721/3230605/59564
-#EXTINF:0,24H A TURMA DO Z… COLM…IA
+#EXTINF:0,24H A TURMA DO Z√â COLM√âIA
 http://conexaoonline.top:80/6339721/3230605/59639
 #EXTINF:0,24H AS AVENTURAS DE TOM E JERRY
 http://conexaoonline.top:80/6339721/3230605/59679
@@ -3858,15 +3858,15 @@ http://conexaoonline.top:80/6339721/3230605/394
 http://conexaoonline.top:80/6339721/3230605/59659
 #EXTINF:0,24H BREAKING BAD
 http://conexaoonline.top:80/6339721/3230605/59687
-#EXTINF:0,24H CAPIT√O CAVERNA
+#EXTINF:0,24H CAPIT√ÉO CAVERNA
 http://conexaoonline.top:80/6339721/3230605/59604
-#EXTINF:0,24H CAPIT√O PLANETA
+#EXTINF:0,24H CAPIT√ÉO PLANETA
 http://conexaoonline.top:80/6339721/3230605/27198
 #EXTINF:0,24H CASTORES PIRADOS
 http://conexaoonline.top:80/6339721/3230605/59588
 #EXTINF:0,24H CAVALEIROS DO ZODIACO
 http://conexaoonline.top:80/6339721/3230605/400
-#EXTINF:0,24H CAVERNA DO DRAG√O
+#EXTINF:0,24H CAVERNA DO DRAG√ÉO
 http://conexaoonline.top:80/6339721/3230605/27201
 #EXTINF:0,24H CHAPOLIN
 http://conexaoonline.top:80/6339721/3230605/27166
@@ -3878,11 +3878,11 @@ http://conexaoonline.top:80/6339721/3230605/27163
 http://conexaoonline.top:80/6339721/3230605/42051
 #EXTINF:0,24H CHAVES MULTISHOW
 http://conexaoonline.top:80/6339721/3230605/59616
-#EXTINF:0,24H CORAGEM O C√O COVARDE
+#EXTINF:0,24H CORAGEM O C√ÉO COVARDE
 http://conexaoonline.top:80/6339721/3230605/59674
-#EXTINF:0,24H CORAGEM O C√O COVARDE
+#EXTINF:0,24H CORAGEM O C√ÉO COVARDE
 http://conexaoonline.top:80/6339721/3230605/27204
-#EXTINF:0,24H DE F…RIAS COM O EX BRASIL
+#EXTINF:0,24H DE F√âRIAS COM O EX BRASIL
 http://conexaoonline.top:80/6339721/3230605/59715
 #EXTINF:0,24H DE VOLTA PARA O FUTURO DESENHO
 http://conexaoonline.top:80/6339721/3230605/59677
@@ -3914,27 +3914,27 @@ http://conexaoonline.top:80/6339721/3230605/59642
 http://conexaoonline.top:80/6339721/3230605/59648
 #EXTINF:0,24H DRAKE E JOSH
 http://conexaoonline.top:80/6339721/3230605/59676
-#EXTINF:0,24H DUCK TALES CL¡SSICO
+#EXTINF:0,24H DUCK TALES CL√ÅSSICO
 http://conexaoonline.top:80/6339721/3230605/59689
 #EXTINF:0,24H EDU PRIMITIVO YOUTUBE
 http://conexaoonline.top:80/6339721/3230605/42030
 #EXTINF:0,24H ESCOLINHA DO PROFESSOR RAIMUNDO ANOS 90
 http://conexaoonline.top:80/6339721/3230605/59554
-#EXTINF:0,24H EU A PATROA E AS CRIAN«AS
+#EXTINF:0,24H EU A PATROA E AS CRIAN√áAS
 http://conexaoonline.top:80/6339721/3230605/42042
-#EXTINF:0,24H FAISCA E FUMA«A
+#EXTINF:0,24H FAISCA E FUMA√áA
 http://conexaoonline.top:80/6339721/3230605/59589
 #EXTINF:0,24H FLY O PEQUENO GUERREIRO
 http://conexaoonline.top:80/6339721/3230605/59709
-#EXTINF:0,24H FORMIGA AT‘MICA
+#EXTINF:0,24H FORMIGA AT√îMICA
 http://conexaoonline.top:80/6339721/3230605/59694
-#EXTINF:0,24H FRANKSTEIN JR E OS IMPOSSIVEÕS
+#EXTINF:0,24H FRANKSTEIN JR E OS IMPOSSIVE√çS
 http://conexaoonline.top:80/6339721/3230605/59660
 #EXTINF:0,24H FREAKAZOID
 http://conexaoonline.top:80/6339721/3230605/59582
 #EXTINF:0,24H FUTURAMA
 http://conexaoonline.top:80/6339721/3230605/27218
-#EXTINF:0,24H F¡BULAS DA DISNEY
+#EXTINF:0,24H F√ÅBULAS DA DISNEY
 http://conexaoonline.top:80/6339721/3230605/59690
 #EXTINF:0,24H GALINHA BABY
 http://conexaoonline.top:80/6339721/3230605/59695
@@ -3948,11 +3948,11 @@ http://conexaoonline.top:80/6339721/3230605/42028
 http://conexaoonline.top:80/6339721/3230605/27219
 #EXTINF:0,24H HOMEM ARANHA
 http://conexaoonline.top:80/6339721/3230605/25753
-#EXTINF:0,24H HULK CL¡SSICO
+#EXTINF:0,24H HULK CL√ÅSSICO
 http://conexaoonline.top:80/6339721/3230605/59703
 #EXTINF:0,24H ICARLY
 http://conexaoonline.top:80/6339721/3230605/27168
-#EXTINF:0,24H IRM√O DO JOREL
+#EXTINF:0,24H IRM√ÉO DO JOREL
 http://conexaoonline.top:80/6339721/3230605/59555
 #EXTINF:0,24H JASPION E JONNY QUEST
 http://conexaoonline.top:80/6339721/3230605/447
@@ -3980,17 +3980,17 @@ http://conexaoonline.top:80/6339721/3230605/59635
 http://conexaoonline.top:80/6339721/3230605/59549
 #EXTINF:0,24H NARUTO
 http://conexaoonline.top:80/6339721/3230605/27213
-#EXTINF:0,24H O INCRÕVEL MUNDO DE GUMBALL
+#EXTINF:0,24H O INCR√çVEL MUNDO DE GUMBALL
 http://conexaoonline.top:80/6339721/3230605/59698
 #EXTINF:0,24H O PEQUENO URSO
 http://conexaoonline.top:80/6339721/3230605/59633
-#EXTINF:0,24H O QUE H¡ DE NOVO SCOOBY DOO?
+#EXTINF:0,24H O QUE H√Å DE NOVO SCOOBY DOO?
 http://conexaoonline.top:80/6339721/3230605/59683
 #EXTINF:0,24H O SHOW DO GARFIELD
 http://conexaoonline.top:80/6339721/3230605/59520
 #EXTINF:0,24H O SHOW DOS LOONEY TUNES
 http://conexaoonline.top:80/6339721/3230605/59697
-#EXTINF:0,24H O XOD” DA VOV”
+#EXTINF:0,24H O XOD√ì DA VOV√ì
 http://conexaoonline.top:80/6339721/3230605/59661
 #EXTINF:0,24H OGGY E AS BARATAS TONTAS
 http://conexaoonline.top:80/6339721/3230605/59713
@@ -4000,25 +4000,25 @@ http://conexaoonline.top:80/6339721/3230605/59538
 http://conexaoonline.top:80/6339721/3230605/59654
 #EXTINF:0,24H OS CAVALEIROS DO ZODIACO
 http://conexaoonline.top:80/6339721/3230605/27193
-#EXTINF:0,24H OS G¡RGULAS
+#EXTINF:0,24H OS G√ÅRGULAS
 http://conexaoonline.top:80/6339721/3230605/59578
-#EXTINF:0,24H OS HERCUL”IDES
+#EXTINF:0,24H OS HERCUL√ìIDES
 http://conexaoonline.top:80/6339721/3230605/59559
 #EXTINF:0,24H OS JETSONS
 http://conexaoonline.top:80/6339721/3230605/59702
-#EXTINF:0,24H OS JOVENS TIT√S EM A«√O T-01 ¡ 04
+#EXTINF:0,24H OS JOVENS TIT√ÉS EM A√á√ÉO T-01 √Å 04
 http://conexaoonline.top:80/6339721/3230605/59608
-#EXTINF:0,24H OS JOVENS TIT√S EM A«√O T05
+#EXTINF:0,24H OS JOVENS TIT√ÉS EM A√á√ÉO T05
 http://conexaoonline.top:80/6339721/3230605/59609
-#EXTINF:0,24H OS PADRINHOS M¡GICOS
+#EXTINF:0,24H OS PADRINHOS M√ÅGICOS
 http://conexaoonline.top:80/6339721/3230605/27210
-#EXTINF:0,24H OS TRAPALH’ES
+#EXTINF:0,24H OS TRAPALH√ïES
 http://conexaoonline.top:80/6339721/3230605/27167
 #EXTINF:0,24H OS URSINHOS CARINHOSOS
 http://conexaoonline.top:80/6339721/3230605/59603
 #EXTINF:0,24H PADRINHOS MAGICOS E PICA PAU
 http://conexaoonline.top:80/6339721/3230605/477
-#EXTINF:0,24H PAPA L…GUAS
+#EXTINF:0,24H PAPA L√âGUAS
 http://conexaoonline.top:80/6339721/3230605/59631
 #EXTINF:0,24H PATRULHA CANINA
 http://conexaoonline.top:80/6339721/3230605/20635
@@ -4034,7 +4034,7 @@ http://conexaoonline.top:80/6339721/3230605/59568
 http://conexaoonline.top:80/6339721/3230605/478
 #EXTINF:0,24H PICA-PAU
 http://conexaoonline.top:80/6339721/3230605/27189
-#EXTINF:0,24H PICA-PAU CL¡SSICO
+#EXTINF:0,24H PICA-PAU CL√ÅSSICO
 http://conexaoonline.top:80/6339721/3230605/59710
 #EXTINF:0,24H PINK E O CEREBRO
 http://conexaoonline.top:80/6339721/3230605/59628
@@ -4064,7 +4064,7 @@ http://conexaoonline.top:80/6339721/3230605/27215
 http://conexaoonline.top:80/6339721/3230605/59658
 #EXTINF:0,24H SUPERAMIGOS
 http://conexaoonline.top:80/6339721/3230605/59618
-#EXTINF:0,24H SÕTIO DO PICAPAU AMARELO
+#EXTINF:0,24H S√çTIO DO PICAPAU AMARELO
 http://conexaoonline.top:80/6339721/3230605/27161
 #EXTINF:0,24H TARZAN
 http://conexaoonline.top:80/6339721/3230605/59574
@@ -4078,15 +4078,15 @@ http://conexaoonline.top:80/6339721/3230605/27162
 http://conexaoonline.top:80/6339721/3230605/59551
 #EXTINF:0,24H TRANSFORMERS
 http://conexaoonline.top:80/6339721/3230605/59615
-#EXTINF:0,24H TR S ESPI√S DEMAIS
+#EXTINF:0,24H TR√äS ESPI√ÉS DEMAIS
 http://conexaoonline.top:80/6339721/3230605/59606
 #EXTINF:0,24H TV QUACK PACK
 http://conexaoonline.top:80/6339721/3230605/59614
-#EXTINF:0,24H UM MALUCO NO PEDA«O
+#EXTINF:0,24H UM MALUCO NO PEDA√áO
 http://conexaoonline.top:80/6339721/3230605/59599
 #EXTINF:0,24H URSINHOS CARINHOSOS E  TOM E JERRY
 http://conexaoonline.top:80/6339721/3230605/495
-#EXTINF:0,24H VOC  SABIA? YOUTUBE
+#EXTINF:0,24H VOC√ä SABIA? YOUTUBE
 http://conexaoonline.top:80/6339721/3230605/42055
 #EXTINF:0,24H ZILLION
 http://conexaoonline.top:80/6339721/3230605/59542
@@ -4644,9 +4644,9 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a100-629b-11eb%2086b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=desconhecido&includeExtendedEvents=false&sid=c002e3af-c4af-4a44-867e-55e324587507&userId=&serverSideAds=true
 #EXTINF:0,TV JUNIOR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=978179f0-629b-11eb%2086b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=desconhecido&includeExtendedEvents=false&sid=bc2b3e9d-2c6a-4239-b56d-b64e1afa1902&userId=&serverSideAds=true
-#EXTINF:22,NICK CL¡SSICO
+#EXTINF:22,NICK CL√ÅSSICO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a102-629b-11eb%2086b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=desconhecido&includeExtendedEvents=false&sid=d4d4dc29-a5b3-4bb6-ba4c-83e2d0cbcfb7&userId=&serverSideAds=true
-#EXTINF:0,TURMA DA M‘NICA (24H)
+#EXTINF:0,TURMA DA M√îNICA (24H)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846021-629b-11eb-629b-11eb-97846021-629b-11eb%2086b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=desconhecido&includeExtendedEvents=false&sid=0dd3fbda-a8d5-4964-8b9e-6f6e95a3db5e&userId=&ser
 #EXTINF:25,Service
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c811-629b-11eb-9781c811-629b-11eb%2086b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=desconhecido&includeExtendedEvents=false&sid=30398c0d-72c1-4ff3-927f-d52a8f3d9300&userId=&serverSideAds=true
@@ -4664,29 +4664,29 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204554
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204555
 #EXTINF:0,Warner Channel SD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204556
-#EXTINF:0,BABY TV SD≤
+#EXTINF:0,BABY TV SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203514
-#EXTINF:0,CARTOON NETWORK HD≤
+#EXTINF:0,CARTOON NETWORK HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203534
-#EXTINF:0,DISCOVERY KIDS HD≤
+#EXTINF:0,DISCOVERY KIDS HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203577
-#EXTINF:0,GLOOBINHO HD≤
+#EXTINF:0,GLOOBINHO HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203719
-#EXTINF:0,GLOOBINHO SD≤
+#EXTINF:0,GLOOBINHO SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203720
-#EXTINF:0,NATGEO KIDS HD≤
+#EXTINF:0,NATGEO KIDS HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203781
-#EXTINF:0,NICK HD≤
+#EXTINF:0,NICK HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203788
-#EXTINF:0,NICK JR HD≤
+#EXTINF:0,NICK JR HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203790
-#EXTINF:0,NICK SD≤
+#EXTINF:0,NICK SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203792
-#EXTINF:0,TOONCAST HD≤
+#EXTINF:0,TOONCAST HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203912
-#EXTINF:0,TOONCAST SD≤
+#EXTINF:0,TOONCAST SD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203913
-#EXTINF:0,TV RA TIM BUM HD≤
+#EXTINF:0,TV RA TIM BUM HD¬≤
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/203926
 #EXTINF:0,DISCOVERY KIDS FHD
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204314
@@ -4770,11 +4770,11 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204163
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204165
 #EXTINF:0,JIRAYA 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204166
-#EXTINF:0,AS VIS’ES DA RAVEN 24HS
+#EXTINF:0,AS VIS√ïES DA RAVEN 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204209
-#EXTINF:0,[24H] A GRANDE FAMILIA - O √LBUM
+#EXTINF:0,[24H] A GRANDE FAMILIA - O √ÉLBUM
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204211
-#EXTINF:0,[24H] PEGADINHAS JO√O KLEBER E SILVIO SANTOS
+#EXTINF:0,[24H] PEGADINHAS JO√ÉO KLEBER E SILVIO SANTOS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204212
 #EXTINF:0,UM MALUCO NO PEDACO CANAL 1 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204214
@@ -4796,7 +4796,7 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249506
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249507
 #EXTINF:0,DOIS HOMENS E MEIO 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249513
-#EXTINF:0,H…RCULES 24HS
+#EXTINF:0,H√âRCULES 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249523
 #EXTINF:0,JASPION 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249530
@@ -4834,7 +4834,7 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249591
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249594
 #EXTINF:0,JEZABEL 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249601
-#EXTINF:0,G NESIS 24 HRS
+#EXTINF:0,G√äNESIS 24 HRS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249602
 #EXTINF:0,O RICO EO LAZARO 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249603
@@ -4842,9 +4842,9 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249603
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249605
 #EXTINF:0,A GATA COMEU 24 HR
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249606
-#EXTINF:0,DC COMICS TVπ
+#EXTINF:0,DC COMICS TV¬π
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/254053
-#EXTINF:0,VERDADES SECRETAS 2π
+#EXTINF:0,VERDADES SECRETAS 2¬π
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/254054
 #EXTINF:0,[24H] CAVALEIROS DO ZODIACO 1 - SANTUARIO
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204167
@@ -4866,7 +4866,7 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204185
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204186
 #EXTINF:0,[24H] HE-MAN
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204188
-#EXTINF:0,204 - 203,200_.jpg" ,[24H] O PEQUENO PRÕNCIPE
+#EXTINF:0,204 - 203,200_.jpg" ,[24H] O PEQUENO PR√çNCIPE
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204191
 #EXTINF:0,[24H] POPEYE
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204193
@@ -4880,9 +4880,9 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204198
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204199
 #EXTINF:0,[24H] TICO E TECO: E OS DEFENSORES DA LEI
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204200
-#EXTINF:0,TIM√O E PUMBA 24HS
+#EXTINF:0,TIM√ÉO E PUMBA 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204201
-#EXTINF:0,TR S ESPI√S DEMAIS CANAL 2 24HS
+#EXTINF:0,TR√äS ESPI√ÉS DEMAIS CANAL 2 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204202
 #EXTINF:0,[24H] MASHA EO URSO
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204203
@@ -4902,7 +4902,7 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204210
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204217
 #EXTINF:0,[24H] BEYBLADE
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204218
-#EXTINF:0,O C√O COVARDE CANAL 2 24HS
+#EXTINF:0,O C√ÉO COVARDE CANAL 2 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204219
 #EXTINF:0,[24H] CHAVES EM DESENHO ANIMADO
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204221
@@ -4914,11 +4914,11 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204223
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204224
 #EXTINF:0, [24H] OS PADRINHOS MAGICOS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204225
-#EXTINF:0,[24H] PINKY EO C…REBRO
+#EXTINF:0,[24H] PINKY EO C√âREBRO
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204228
 #EXTINF:0,[24H] SPEED RACER
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204229
-#EXTINF:0,[24H] Z… COLMEIA
+#EXTINF:0,[24H] Z√â COLMEIA
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204231
 #EXTINF:0,[24H] AVENTURAS DE TINTIM
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/204240
@@ -4938,13 +4938,13 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249501
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249502
 #EXTINF:0,CORAGEM O CAO COVARDE CANAL 1 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249504
-#EXTINF:0,CAVERNA DO DRAG√O 24HS
+#EXTINF:0,CAVERNA DO DRAG√ÉO 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249505
 #EXTINF:0,CHAVES DESENHO 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249508
 #EXTINF:0,DENIS O PIMENTINHA 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249509
-#EXTINF:0,DESENHOS BÕBLICOS 24HS
+#EXTINF:0,DESENHOS B√çBLICOS 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249510
 #EXTINF:0,DESENHOS DISNEY 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/2%2049511
@@ -4958,11 +4958,11 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249515
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249516
 #EXTINF:0,DRAGON BALL Z 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249517
-#EXTINF:0,FORMIGA AT”MICA 24HS
+#EXTINF:0,FORMIGA AT√ìMICA 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249519
 #EXTINF:0,GALINHA PINTADINHA 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249520
-#EXTINF:0,GUARDI’ES DA GALAXIA 24HS
+#EXTINF:0,GUARDI√ïES DA GALAXIA 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249521
 #EXTINF:0,HE-MAN 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249522
@@ -4974,7 +4974,7 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249525
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249526
 #EXTINF:0,HOMEMS DE PRETO 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249527
-#EXTINF:0,INCRÕVEL HULK 24HS
+#EXTINF:0,INCR√çVEL HULK 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249528
 #EXTINF:0,JACK-CHAN 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249529
@@ -5004,7 +5004,7 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249545
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249546
 #EXTINF:0,OS VINGADORES 24hs
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249547
-#EXTINF:0,PAPA-L…GUAS 24HS
+#EXTINF:0,PAPA-L√âGUAS 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249548
 #EXTINF:0,PEPPA PIG 24hs
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249549
@@ -5028,7 +5028,7 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249564
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249565
 #EXTINF:0,TOM & JERRY 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249567
-#EXTINF:0,TR S ESPI√S DEMAIS CANAL 1 24HS
+#EXTINF:0,TR√äS ESPI√ÉS DEMAIS CANAL 1 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249568
 #EXTINF:0,UMA FAMILIA DA PESADA 24HS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249570
@@ -5064,15 +5064,15 @@ http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249595
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249596
 #EXTINF:0,ASTRO BOY 24HRS
 http://gameplay.p2sweb.me:80/528wheu9/5281hwj8/249598
-#EXTINF:6942,Dois Amigos e uma AmeaÁa AlienÌgena 2022 - COMANDO.TO
+#EXTINF:6942,Dois Amigos e uma Amea√ßa Alien√≠gena 2022 - COMANDO.TO
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/252120.mp4
 #EXTINF:5642,A Princesa (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/252421.mp4
 #EXTINF:6154,A Garota da Foto 2022 - TORRENTDOSFILMES2.TV
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/252468.mp4
-#EXTINF:5059,Ol·, Adeus e Tudo Mais 2022 - COMANDO.TO
+#EXTINF:5059,Ol√°, Adeus e Tudo Mais 2022 - COMANDO.TO
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/252426.mp4
-#EXTINF:5781,VinganÁa Fatal 2022 - COMANDO.TO
+#EXTINF:5781,Vingan√ßa Fatal 2022 - COMANDO.TO
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/252427.mp4
 #EXTINF:0,A Fera do Mar (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/253414.mp4
@@ -5084,7 +5084,7 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/253416.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/253423.mp4
 #EXTINF:0,Hot Seat (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/253424.mp4
-#EXTINF:0,LigaÁıes Perigosas (2022)
+#EXTINF:0,Liga√ß√µes Perigosas (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/253425.mp4
 #EXTINF:0,Malibu Crush (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/253426.mp4
@@ -5100,35 +5100,35 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/253934.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/253935.mp4
 #EXTINF:5358,Flee: Nenhum Lugar Para Chamar de Lar 2022 - COMANDO.TO
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/253936.mp4
-#EXTINF:0,Jurassic World: DomÌnio (2022)
+#EXTINF:0,Jurassic World: Dom√≠nio (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/253937.mp4
-#EXTINF:0,O PreÁo da SeduÁ„o (2022)
+#EXTINF:0,O Pre√ßo da Sedu√ß√£o (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/253940.mp4
-#EXTINF:0,N„o Me Diga Adeus (2022)
+#EXTINF:0,N√£o Me Diga Adeus (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/254045.mp4
 #EXTINF:0,ZOMBIES 3 (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/254046.mp4
-#EXTINF:0,Persuas„o (2022)
+#EXTINF:0,Persuas√£o (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/254048.mp4
 #EXTINF:0,O Sol de Amalfi (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/256912.mp4
 #EXTINF:0,Live is Life (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/257620.mp4
-#EXTINF:5940,O ⁄ltimo Drag„o 2022 - BLUDV.TO
+#EXTINF:5940,O √öltimo Drag√£o 2022 - BLUDV.TO
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/257621.mp4
-#EXTINF:0,VocÍ Radical com Ranveer Singh e Bear Grylls ( 2022)
+#EXTINF:0,Voc√™ Radical com Ranveer Singh e Bear Grylls ( 2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/257622.mp4
 #EXTINF:0,Dakota (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/257623.mp4
-#EXTINF:0,Crescer N„o È Brincadeira (2022)
+#EXTINF:0,Crescer N√£o √© Brincadeira (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/257624.mp4
-#EXTINF:0,Tudo È PossÌvel (2022)
+#EXTINF:0,Tudo √© Poss√≠vel (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/257654.mp4
 #EXTINF:0,Agente Oculto (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/257667.mp4
 #EXTINF:0,Vamos Conservar o Mundo (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/257744.mp4
-#EXTINF:0,Chamas da VinganÁa (2022)
+#EXTINF:0,Chamas da Vingan√ßa (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/257749.mp4
 #EXTINF:0,Retorno (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/257794.mp4
@@ -5138,7 +5138,7 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/257805.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/257806.mp4
 #EXTINF:0,A Suspeita (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/257808.mp4
-#EXTINF:0,ContinÍncia ao Amor (2022)
+#EXTINF:0,Contin√™ncia ao Amor (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258164.mp4
 #EXTINF:0,Hora de Brilhar (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258166.mp4
@@ -5156,9 +5156,9 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258183.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258260.mp4
 #EXTINF:0,Carter (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258261.mp4
-#EXTINF:0,LEGO Star Wars: FÈrias de Ver„o (2022) )
+#EXTINF:0,LEGO Star Wars: F√©rias de Ver√£o (2022) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258262.mp4
-#EXTINF:0,O Predador: A CaÁada (2022)
+#EXTINF:0,O Predador: A Ca√ßada (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258263.mp4
 #EXTINF:0,Sorte (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258264.mp4
@@ -5168,35 +5168,35 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258266.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258268.mp4
 #EXTINF:0,Treze Vidas: O Resgate (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258269.mp4
-#EXTINF:6413,Terror no Est˙dio 666 2022 - COMANDO.TO
+#EXTINF:6413,Terror no Est√∫dio 666 2022 - COMANDO.TO
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258270.mp4
 #EXTINF:0,O Despertar das Tartarugas Ninja: O Filme ( 2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258271.mp4
-#EXTINF:5061,A ⁄ltima VÌtima 2022 - BLUDV.TO
+#EXTINF:5061,A √öltima V√≠tima 2022 - BLUDV.TO
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258272.mp4
 #EXTINF:0,Asking For It (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258291.mp4
 #EXTINF:0,Darlings (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258292.mp4
-#EXTINF:0,Duplamente Gr·vida 2 (2022)
+#EXTINF:0,Duplamente Gr√°vida 2 (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258293.mp4
 #EXTINF:9554,Elvis 2022 - COMANDO.TO
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258294.mp4
 #EXTINF:0,Viajantes: Perdidos No Tempo (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258298.mp4
-#EXTINF:5259,Uma Amizade TÛxica 2022 - BLUDV.TO
+#EXTINF:5259,Uma Amizade T√≥xica 2022 - BLUDV.TO
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258423.mp4
-#EXTINF:0,A Verdadeira HistÛria do Roubo do SÈculo (2022) )
+#EXTINF:0,A Verdadeira Hist√≥ria do Roubo do S√©culo (2022) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258467.mp4
-#EXTINF:0,Na Sinfonia do CoraÁ„o (2022)
+#EXTINF:0,Na Sinfonia do Cora√ß√£o (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258477.mp4
 #EXTINF:0,Minions 2: A Origem de Gru (2022) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258511.mp4
-#EXTINF:0,Crescer È Muito Chato (2022)
+#EXTINF:0,Crescer √© Muito Chato (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258526.mp4
 #EXTINF:0,13: O Musical (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258527.mp4
-#EXTINF:0,CÛdigo: Imperador (2022)
+#EXTINF:0,C√≥digo: Imperador (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258529.mp4
 #EXTINF:0,Dupla Jornada (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258530.mp4
@@ -5204,7 +5204,7 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258530.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258554.mp4
 #EXTINF:0,Luccas Neto em: A Gincana Na Netoland ( 2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258571.mp4
-#EXTINF:0,O Atirador: Miss„o Secreta (2022)
+#EXTINF:0,O Atirador: Miss√£o Secreta (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258600.mp4
 #EXTINF:0,Snoopy Apresenta: A Escola da Lucy (2022) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258601.mp4
@@ -5214,31 +5214,31 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258603.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258604.mp4
 #EXTINF:0,365 Dias Finais (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258863.mp4
-#EXTINF:0,CaÁando Ava Bravo (2022)
+#EXTINF:0,Ca√ßando Ava Bravo (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258865.mp4
-#EXTINF:0,Fullmetal Alchemist: A VinganÁa de Scar (2022) )
+#EXTINF:0,Fullmetal Alchemist: A Vingan√ßa de Scar (2022) )
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/258866.mp4
 #EXTINF:0,Top Gun: Maverick (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/259368.mp4
-#EXTINF:0,Constantine: A Casa dos MistÈrios (2022)
+#EXTINF:0,Constantine: A Casa dos Mist√©rios (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/259369.mp4
 #EXTINF:0,DC Liga dos Superpets (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/259561.mp4
-#EXTINF:0,”rf„ 2: A Origem (2022)( Legendado)
+#EXTINF:0,√ìrf√£ 2: A Origem (2022)( Legendado)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/260096.mp4
 #EXTINF:5500,A Dupla Explosiva 2022 - COMANDO.TO
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/260097.mp4
-#EXTINF:0,PolÍmico e Fugitivo (2022)
+#EXTINF:0,Pol√™mico e Fugitivo (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/260098.mp4
 #EXTINF:0,Tudo Sobre Sexo (2021)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/260137.mp4
-#EXTINF:6694,Marcas da MaldiÁ„o 2022 - COMANDO.TO
+#EXTINF:6694,Marcas da Maldi√ß√£o 2022 - COMANDO.TO
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/260138.mp4
 #EXTINF:0,O Caso Figo: A que Mudou o Futebol (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/260139.mp4
 #EXTINF:0,Thats Amor (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/260140.mp4
-#EXTINF:0,De FÈrias da FamÌlia (2022)
+#EXTINF:0,De F√©rias da Fam√≠lia (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/260273.mp4
 #EXTINF:0,Seul em Alta Velocidade (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/260274.mp4
@@ -5264,7 +5264,7 @@ http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/263331.mp4
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/263332.mp4
 #EXTINF:6644,Vizinhos (2022)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/263333.mp4
-#EXTINF:0,007: A ServiÁo Secreto de Sua Majestade (1969)
+#EXTINF:0,007: A Servi√ßo Secreto de Sua Majestade (1969)
 http://gameplay.p2sweb.me:80/movie/528wheu9/5281hwj8/201055.mp4
 #EXTINF:0,DISCOVERY KIDS FHD
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/186346
